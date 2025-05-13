@@ -43,23 +43,21 @@ def output_lines_to_df(lines):
     return df
 
 # scoring_function()
-
 input_paths = [
-    "../Data/0_example.txt",
-    "../Data/1_binary_landscapes.txt",
-    "../Data/10_computable_moments.txt",
-    "../Data/11_randomizing_paintings.txt",
-    "../Data/110_oily_portraits.txt"
-]
+    "./Kaggle_Week/Data/0_example.txt",
+    "./Kaggle_Week/Data/1_binary_landscapes.txt",
+    "./Kaggle_Week/Data/10_computable_moments.txt",
+    "./Kaggle_Week/Data/11_randomizing_paintings.txt",
+    "./Kaggle_Week/Data/110_oily_portraits.txt"
+    ]
 
 output_paths = [
-    "../output/0_example.txt",
-    "../output/1_binary_landscapes.txt",
-    "../output/10_computable_moments.txt",
-    "../output/11_randomizing_paintings.txt",
-    "../output/110_oily_portraits.txt"
-]
-
+        "./Kaggle_Week/output/0_example.txt",
+        "./Kaggle_Week/output/1_binary_landscapes.txt",
+        "./Kaggle_Week/output/10_computable_moments.txt",
+        "./Kaggle_Week/output/11_randomizing_paintings.txt",
+        "./Kaggle_Week/output/110_oily_portraits.txt"
+    ]
 
 def get_score(input_path, output_path):
     input_data = get_input_data(input_path)
@@ -78,17 +76,12 @@ def get_score(input_path, output_path):
         res.append({"tags" : set_one})
     df = pd.DataFrame(res)
 
-
     score = 0
     for i in range(len(df)-1):
         cur_set = df.iloc[i]['tags']
         next_set = df.iloc[i+1]['tags']
         score += min(len(cur_set & next_set), len(cur_set - next_set), len(next_set - cur_set))
-
     print(score)
-
-
-
 
 if __name__=="__main__":
     for i in range(len(input_paths)):
