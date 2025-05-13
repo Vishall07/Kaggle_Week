@@ -72,8 +72,8 @@ def get_score(input_path, output_path):
         if(output_df.iloc[i]['two'] != None):
             second_paint = int(output_df.iloc[i]['two'])
             set_two = input_df.iloc[second_paint]['Tags']
-            set_one.union(set_two)
-        res.append({"tags" : set_one})
+            set_one = set_one.union(set_two)
+        res.append({"tags" : set_one.copy()})
     df = pd.DataFrame(res)
 
     score = 0
