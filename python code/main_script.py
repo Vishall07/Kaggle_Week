@@ -1,5 +1,5 @@
 import pandas as pd
-
+import time
 
 def read_file(path = ''):
     with open(path, 'r') as file:
@@ -59,6 +59,33 @@ def create_output_file(combined_df, path):
         for line in output.values:
             f.write(str(line)+'\n')
 
+# Greedy algorithm
+def greedy_reorder(df):
+    used = set()
+    order = []
+    
+    # Start with the row with max total tag overlap with others
+    start = max(df.index, key=lambda i: sum(len(df.loc[i, 'Tags'] & df.loc[j, 'Tags']) for j in df.index if i != j))
+    current = start
+    used.add(current)
+    order.append(current)
+
+    while len(used) < len(df):
+        next_index = max(
+            (i for i in df.index if i not in used),
+            key=lambda i: len(df.loc[current, 'Tags'] & df.loc[i, 'Tags']),
+            default=None
+        )
+        if next_index is None:
+            break
+        used.add(next_index)
+        order.append(next_index)
+        current = next_index
+    
+    return df.loc[order].reset_index(drop=True)
+
+
+
 def main(file_number = 0):
     input_paths = [
     "./Kaggle_Week/Data/0_example.txt",
@@ -76,16 +103,37 @@ def main(file_number = 0):
         "./Kaggle_Week/output/110_oily_portraits.txt"
     ]
 
+
+
     
+
     lines = read_file(input_paths[file_number])
 
     df = convert_lines_to_df(lines)
 
     combined_df = merge_potraits_in_one_frame(df)
 
-    create_output_file(combined_df, output_paths[file_number])
+    # # Run greedy reordering
+    # combined_df = greedy_reorder(combined_df)
+    # print(combined_df)
+
+    chunk_size = 1000
+    chunks = [combined_df[i:i+chunk_size] for i in range(0, len(combined_df), chunk_size)]
+    start_time = time.time()
+    processed_chunks = []
+
+    for chunk in chunks:
+        reordered_chunk = greedy_reorder(chunk)
+        processed_chunks.append(reordered_chunk)
+
+    final_df = pd.concat(processed_chunks, ignore_index=True)
+    end_time = time.time()
+    print(f"Processing took {end_time - start_time:.2f} seconds")
+    create_output_file(final_df, output_paths[file_number])
 
 
 if __name__=="__main__":
-    for i in range(5):
-        main(i)
+    main(2)
+
+
+#1478

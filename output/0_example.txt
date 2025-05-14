@@ -1,4 +1,1407 @@
-3
-1 2
-0
-3
+625
+['0 537 543 544' 'P'
+ {'kg3', 'kww', 'k622', 'kjj1', 'k8h', 'kw52', 'krk1', 'kqx1', 'k7b1', 'kw81', 'k5z', 'k2k', 'kq51', 'kpr1', 'kcv1', 'kz61', 'kql1', 'kjb1', 'khq', 'k9m1', 'k1l', 'k81', 'kdd1', 'kbd1', 'kg6', 'k3m', 'khp1', 'kfb1', 'k0b1', 'kxg', 'kkp1', 'k6k', 'k212', 'kv', 'kmz1', 'kwd1', 'k942', 'kf61', 'kn3', 'kkv', 'km9', 'kp71', 'knx1', 'k17', 'k8b1'}
+ 45]
+['545 547 548 552' 'P'
+ {'kr1', 'kcs1', 'k28', 'kc21', 'k2w', 'k86', 'krm', 'krz', 'kjk', 'k301', 'k512', 'kk82', 'k4l1', 'kqv1', 'kvh', 'kdn', 'k07', 'k9k1', 'kbj', 'k511', 'kg2', 'k4d2', 'k222', 'kzl', 'kf7', 'kq52', 'kgw', 'kjs1', 'k541', 'khr'}
+ 30]
+['553 558 562 563' 'P'
+ {'kn12', 'kj91', 'k7j1', 'kvc1', 'k102', 'kkb2', 'kbv', 'k09', 'k8z', 'k82', 'k692', 'k2m1', 'kml1', 'kx41', 'kx71', 'k462', 'khp1', 'k9m', 'k302', 'kqc2', 'kjs', 'k52', 'km7', 'k181', 'kqp', 'km1', 'k5f1', 'k272', 'kpc', 'kk82', 'kl6', 'kr', 'kgk1', 'kzc', 'kck', 'kzn'}
+ 36]
+['564 566 568 571' 'P'
+ {'k151', 'k88', 'k3k1', 'km3', 'k062', 'kvp1', 'k981', 'kqv', 'khc1', 'kx51', 'k9d1', 'kk6', 'k501', 'k3g', 'klz1', 'kb5', 'k011', 'k131', 'k031', 'k0f1', 'k9r', 'kw21', 'k2k', 'kk61', 'kpd', 'k332', 'k2x1', 'kjb1', 'krq1', 'kw11'}
+ 30]
+['572 573 577 542' 'P'
+ {'k34', 'k3m', 'k2m', 'k0d1', 'kd61', 'krg', 'kd41', 'kk', 'kjb1', 'kk82', 'kc72', 'kd', 'kbv', 'kfl1', 'klz1', 'ksq', 'kr62', 'k6z', 'k5w1', 'kzk1', 'k131', 'k471', 'kz4', 'kx22', 'k5v', 'kf2', 'k9c', 'kj1', 'kdk1', 'kr2', 'k4q1', 'khz', 'kz21', 'k81'}
+ 34]
+['535 579 534 498' 'P'
+ {'k462', 'kjx1', 'k1b2', 'klh', 'kn71', 'k9c1', 'kxh', 'kqv', 'kvn1', 'kdp', 'kkb2', 'k121', 'kfj', 'klz1', 'kb5', 'khb1', 'kw32', 'kc61', 'khd1', 'kw81', 'k881', 'kmm1', 'klg1', 'kwz1', 'kmw', 'k7k1', 'ksk', 'kq52', 'k9w', 'kmj1', 'k3l', 'kc6', 'k81'}
+ 33]
+['501 503 510 511' 'P'
+ {'kqp1', 'kfb2', 'k7q1', 'k1v1', 'knl', 'kd41', 'kn81', 'k9p1', 'krn', 'kc61', 'kcs', 'k9s1', 'kq3', 'k5v1', 'k4r1', 'kkl', 'kpn1', 'k8k1', 'k3k', 'k9z1', 'kd9', 'k9n1', 'kj81', 'kqr1', 'k181', 'kc71', 'klc1', 'kh61', 'kk', 'k0w1', 'kq22', 'kvz1', 'kx3', 'kz9', 'kd82', 'km9', 'k882', 'krw', 'k8h1'}
+ 39]
+['512 513 517 518' 'P'
+ {'khk1', 'kn12', 'kb21', 'kdn1', 'kl51', 'kk6', 'kr42', 'kkd1', 'k55', 'k511', 'klb2', 'kk21', 'kdm1', 'k8c2', 'k4k', 'k2', 'k462', 'khp1', 'kbr', 'kkc', 'k6g1', 'kpw', 'kjc', 'kkr1', 'k032', 'kwd1', 'kr', 'kfr1', 'k4k1', 'kms1', 'knf', 'km9', 'k861', 'k882', 'k0k1', 'knx1', 'kzn'}
+ 37]
+['521 522 523 524' 'P'
+ {'kk11', 'kbw', 'k47', 'kg31', 'ksp1', 'kdc1', 'kk72', 'k5p1', 'kzk', 'kq81', 'k911', 'krc1', 'k4x1', 'kc61', 'k5c', 'k2k', 'k6', 'kpr1', 'kx52', 'k811', 'k4w', 'krq1', 'k2', 'k48', 'kkc', 'k9d1', 'kqj1', 'k6k', 'kfj', 'kmf', 'km51', 'kfb', 'kkz', 'k5n1', 'k621', 'k841', 'kc5', 'kk61', 'kns', 'k961', 'kf52', 'k321', 'k39', 'knx1', 'kzn'}
+ 45]
+['525 527 528 529' 'P'
+ {'ksp', 'kjr1', 'kjj1', 'khc1', 'knd1', 'kx51', 'kvb1', 'kkb2', 'k55', 'k291', 'klc', 'kvf', 'kgp1', 'kv', 'k6d2', 'kn1', 'kc5', 'kkf', 'kzd', 'k2s1', 'ks92', 'ksk', 'k7l', 'kpb2', 'kkl', 'kck', 'k1', 'kh8', 'kxx1', 'kcf', 'k8h1', 'k1v', 'kvr', 'k81'}
+ 34]
+['578 580 495 618' 'P'
+ {'kqq', 'kb61', 'kr1', 'k462', 'k701', 'krk', 'k2r1', 'k622', 'k232', 'kcx', 'kq91', 'k8d1', 'k7c2', 'kr42', 'kc2', 'k2d2', 'krh1', 'kzk1', 'k0f1', 'ks01', 'kl', 'k5v1', 'k882', 'k0k1', 'k66', 'kqw1', 'k711'}
+ 27]
+['620 622 624 625' 'P'
+ {'khk1', 'k28', 'k34', 'kk22', 'klm', 'kgg1', 'k8h1', 'khv', 'kf12', 'k381', 'kk72', 'kc61', 'kr5', 'kq02', 'kf42', 'k5v1', 'k74', 'kkk1', 'k2m1', 'kpr1', 'ksq1', 'kh8', 'kx41', 'kbx1', 'kqq', 'kbd1', 'kgc', 'kdd1', 'krk', 'kpg1', 'kkc', 'kk52', 'kkb1', 'km42', 'kmf', 'kjm1', 'kfr1', 'k4k1', 'kd31', 'ksb2', 'k6v', 'k9c', 'k1', 'krg1'}
+ 44]
+['628 630 631 632' 'P'
+ {'kb11', 'k141', 'kj91', 'kr82', 'k8l', 'k831', 'kn5', 'k4r', 'k0l1', 'k161', 'k3w', 'kz5', 'kq91', 'kbv', 'k0w1', 'kb5', 'k3q', 'krc1', 'kw81', 'k1k1', 'kqb2', 'kv7', 'k991', 'k351', 'k3x1', 'kg7', 'khr'}
+ 27]
+['633 634 635 636' 'P'
+ {'kdh1', 'k762', 'kqk', 'kml', 'kn71', 'kvc1', 'kw22', 'kk32', 'k13', 'kmf', 'kb5', 'kkr1', 'k22', 'kzk1', 'k772', 'k9s1', 'kbm1', 'kz91', 'knf', 'kz9', 'kb1', 'kn3', 'k5v1', 'kgb2', 'kv1'}
+ 25]
+['637 643 651 653' 'P'
+ {'khk1', 'kzm1', 'k8p', 'k2v', 'kqv', 'kbv', 'krr', 'kr42', 'k221', 'kgp1', 'kg41', 'k6z', 'knv1', 'k1s', 'kpx', 'k2k', 'kz91', 'kp52', 'kq51', 'kcf', 'k33', 'ksn1', 'kw3', 'knm', 'k2m', 'km1', 'k49', 'kh61', 'kkw1', 'k1w', 'kz82', 'k861', 'kl32', 'kc22', 'k4x', 'k562', 'k8q', 'kcc2'}
+ 38]
+['657 619 617 581' 'P'
+ {'kc82', 'kls1', 'kn12', 'kn71', 'k0j1', 'khc1', 'kl51', 'kv32', 'k512', 'kj72', 'kn81', 'kj41', 'k3g', 'kfn1', 'kxq1', 'k0h1', 'k6z', 'klr1', 'k511', 'k471', 'k2k', 'krv1', 'k5v1', 'kkk1', 'klw1', 'kfc2', 'k8c2', 'kld1', 'kkm1', 'k601', 'kvs1', 'k8m', 'k86', 'kr1', 'k141', 'k532', 'kpc', 'k002', 'klz1', 'kkz1', 'kbd', 'kf21', 'kkw1', 'k0f1', 'k9j1', 'ks92', 'k7p1', 'kbm', 'k0k1', 'k88'}
+ 50]
+['615 582 583 585' 'P'
+ {'kzq', 'kv02', 'kkd', 'kjr1', 'kk22', 'kq21', 'k411', 'kqv', 'kwp1', 'kv32', 'kgk', 'khv', 'kbn1', 'kl42', 'kd62', 'kfc2', 'kpd', 'k8k1', 'kzg', 'k81', 'k2', 'kcc', 'kvc2', 'k3k', 'k3p', 'k04', 'kfb1', 'k6n', 'kjk', 'kk42', 'k181', 'k532', 'k4r', 'kjh', 'kvk', 'k112', 'kmp', 'k0k', 'k7p1', 'k7v', 'k58', 'km81', 'k711'}
+ 43]
+['586 587 589 590' 'P'
+ {'kl31', 'kvc2', 'kqq', 'kr82', 'kn51', 'kdp1', 'k4r', 'k5c2', 'krb1', 'kld1', 'km52', 'kvr1', 'kw8', 'khn', 'k9j1', 'k4d2', 'k5v1', 'kb7', 'k2b2', 'k2s1', 'kk31', 'kf2', 'k351', 'kjs1', 'kzg', 'k94'}
+ 26]
+['595 598 599 600' 'P'
+ {'kqq', 'kk11', 'kqk1', 'kjr1', 'k412', 'krk', 'kwz', 'kn61', 'km1', 'kv32', 'kz52', 'k221', 'kb32', 'k2b', 'kr5', 'kzk1', 'kkr', 'kkf', 'kw', 'k692', 'kvb', 'kzw', 'kz42', 'k7g1', 'kmd', 'k081', 'kx41'}
+ 27]
+['601 603 607 608' 'P'
+ {'kqq', 'k0w', 'kdz1', 'kms', 'k7j1', 'kks1', 'kg72', 'kqr1', 'k181', 'kk', 'k1m', 'kbv', 'kjc', 'k002', 'kg4', 'kgn', 'kc61', 'kvk', 'kfr1', 'kz22', 'kc5', 'kzf', 'ksb2', 'kxg1', 'k342', 'kx41', 'kqh1'}
+ 27]
+['609 612 496 494' 'P'
+ {'kkd', 'kj8', 'kwz', 'kqc', 'kz12', 'kv32', 'k19', 'kg81', 'kv81', 'k011', 'k4x1', 'kz22', 'k511', 'kkk1', 'k8k1', 'khg1', 'kzg', 'k7p', 'kf01', 'kl31', 'k462', 'kjx1', 'khb2', 'k2m', 'kn51', 'k6c', 'k4g1', 'k3p', 'kmr1', 'kwv1', 'kl6', 'k212', 'kgn', 'kz9', 'k0k1', 'kgb2', 'km81'}
+ 37]
+['660 382 384 385' 'P'
+ {'k762', 'kx71', 'kzg', 'k1v1', 'k2m', 'k8l', 'kq01', 'khh', 'ksl1', 'kcz1', 'kk82', 'kg71', 'k0h1', 'kq81', 'kfr1', 'kz62', 'knj', 'k572', 'kmm1', 'k031', 'k4r1', 'kvk1', 'kvb', 'k672', 'k9w', 'kgb2', 'k351', 'ks91', 'k4x', 'kcl1', 'k691'}
+ 31]
+['386 388 390 392' 'P'
+ {'k962', 'kz01', 'kqh', 'kqg1', 'klm', 'khc1', 'kk6', 'kwf', 'krr', 'k55', 'k511', 'kkc1', 'kdm1', 'krx', 'kd62', 'k5g', 'kzg', 'k41', 'k5w', 'kwj', 'k2m', 'k6c', 'kch', 'ks4', 'kk52', 'kh', 'kn4', 'km42', 'kjc', 'k7c2', 'kvf', 'ks22', 'khb1', 'kgn', 'kkw1', 'kgk1', 'kc5', 'kxb', 'kp62', 'k861', 'k651', 'ks61', 'kg7', 'kj82', 'kql'}
+ 45]
+['394 395 398 399' 'P'
+ {'kr1', 'kd2', 'k34', 'k0c', 'khp1', 'khh1', 'k0j1', 'k99', 'kv9', 'kl6', 'kh42', 'khv', 'kf12', 'kkz1', 'kdk', 'kkw1', 'k881', 'kz22', 'k4d2', 'kz4', 'k692', 'kz9', 'k861', 'kd62', 'klw1', 'k8k1', 'kfs', 'k2x1', 'kfw1'}
+ 29]
+['401 402 403 405' 'P'
+ {'kzm', 'k412', 'kj8', 'kq71', 'k361', 'klg', 'kjj1', 'kvd', 'kgm1', 'kd81', 'kkb2', 'k3g', 'kqf', 'k221', 'k3q', 'klg1', 'k9s1', 'kv42', 'k6r1', 'k991', 'k672', 'klk1', 'k351', 'k5w1', 'kqq', 'kr1', 'k532', 'kmg1', 'k4d1', 'kdp', 'kh61', 'kvk', 'k4k1', 'kgk1', 'k321', 'kn3', 'kqb2', 'krv', 'kr81', 'k3x'}
+ 40]
+['407 408 409 383' 'P'
+ {'k762', 'k5b', 'kww', 'k3r1', 'k242', 'k38', 'k19', 'kk6', 'kq91', 'kk72', 'kwn1', 'k9k', 'k6d2', 'k4c2', 'klg1', 'k2k', 'k6r1', 'k8w', 'k74', 'k3b1', 'kph1', 'k0b', 'k342', 'kx41', 'k5w1', 'k2', 'kz71', 'kjq1', 'khr', 'kx71', 'kn51', 'k48', 'k532', 'k6x', 'k161', 'kn4', 'k2g', 'ksw', 'kxg', 'kf41', 'khb1', 'kxc', 'km12', 'k4k1', 'k131', 'kbz1', 'kmj1', 'k59', 'kv1', 'kj82'}
+ 50]
+['376 413 375 338' 'P'
+ {'kd7', 'kc21', 'klm', 'kwz', 'kpb', 'kqs', 'k9b1', 'kj41', 'k09', 'kqf', 'k0m', 'knj', 'k2k', 'kxf1', 'kzl', 'kpd', 'kdq1', 'k33', 'ksj', 'k9b', 'k2', 'k141', 'kn31', 'kdd1', 'kn51', 'khc', 'k161', 'kn72', 'k8k', 'ksw', 'kdl1', 'krp1', 'kfj', 'k0f1', 'kms1', 'k7v', 'k0k1', 'kkc2', 'kqb2', 'k8h1', 'k2p'}
+ 41]
+['339 341 343 344' 'P'
+ {'kqh', 'km92', 'kmg', 'k3r1', 'k1v1', 'k7q1', 'k361', 'k19', 'krr', 'kbh', 'kr4', 'k9k', 'k6d2', 'k3q', 'k7d', 'kzr', 'k2k', 'kw21', 'k7k1', 'k692', 'k2x1', 'kjs1', 'kh8', 'k6w', 'kgc', 'khp1', 'kpg1', 'k9n1', 'k532', 'kn52', 'k77', 'k9d1', 'kkb1', 'k13', 'kdl1', 'kk82', 'kmf', 'k212', 'kgn', 'khm', 'k9l1', 'k4d2', 'ks01', 'km9', 'kw51', 'k4x', 'k61', 'kg7'}
+ 48]
+['345 350 353 355' 'P'
+ {'kjr1', 'kk22', 'klm', 'kc91', 'k0l1', 'k9v1', 'kpb', 'kqw', 'k512', 'khg', 'kbj', 'kz22', 'kkf', 'kb02', 'kbn1', 'k192', 'kpb1', 'kfq1', 'kz61', 'kk4', 'k3k', 'k2', 'kr51', 'kr1', 'kx12', 'krk', 'k2m', 'k6c', 'k612', 'klc1', 'km42', 'k8l1', 'kz62', 'kb7', 'kbz1', 'k5r', 'k01', 'kd', 'k8b1'}
+ 39]
+['359 363 365 366' 'P'
+ {'kbd1', 'k3r1', 'krk', 'km02', 'k4x', 'kk92', 'k0j1', 'k181', 'kq91', 'k3g', 'kqv1', 'kgk', 'khv', 'kqz', 'k481', 'k9k', 'kgj', 'k1w', 'klk', 'kh01', 'k351', 'kpv1', 'kgz', 'ksk1', 'k42', 'kz61', 'k342', 'kp21', 'khl1', 'kh41', 'k452'}
+ 31]
+['368 371 372 373' 'P'
+ {'kqh', 'k3r1', 'k3k1', 'kq01', 'khc1', 'kk6', 'k481', 'kr5', 'k8n', 'kgj', 'klg1', 'kcw1', 'kkf', 'k5p', 'kkk1', 'kpr1', 'kmz', 'kfc2', 'kh8', 'k6w', 'k33', 'kx41', 'krq1', 'kbr1', 'ksl', 'k6c', 'k6n', 'k4s', 'k0s', 'k4r', 'k4d1', 'kv31', 'kzx', 'kkz', 'kf21', 'kkw1', 'kl9', 'kh1', 'kz82', 'kf71', 'kcq', 'kj4', 'kbm', 'k3p1', 'kj82', 'k7n1'}
+ 46]
+['410 414 492 455' 'P'
+ {'k1l1', 'k64', 'kc21', 'kv92', 'k1v1', 'kvc1', 'k38', 'kl51', 'kv32', 'k232', 'k3w', 'k291', 'kws1', 'kq72', 'kgp1', 'kpk', 'kcl', 'k011', 'k1s', 'kkf', 'k74', 'k5v1', 'krx', 'kpb2', 'kgz', 'k071', 'kz61', 'k6w', 'kvr', 'kr1', 'kwc', 'k591', 'kcx1', 'ksw', 'km42', 'k942', 'kc5', 'k0f1', 'kfz1', 'k8b1', 'kds1', 'k2x1', 'kz21', 'k711'}
+ 44]
+['459 461 464 465' 'P'
+ {'k64', 'k3r1', 'k7j1', 'kjp1', 'kks1', 'kw52', 'kn81', 'kbv', 'klj', 'k6h', 'k791', 'k66', 'kbb', 'kzg', 'kp3', 'kdg', 'kl31', 'kzl1', 'knm', 'kd51', 'kkb1', 'ksw', 'kk', 'kjl1', 'kfj', 'kc2', 'kf21', 'kfr1', 'kzk1', 'k9x1', 'k7m1', 'kgk1', 'k4d2', 'kb7', 'kk61', 'knf', 'kzw', 'krs1', 'ksk1', 'kzn'}
+ 40]
+['466 469 470 471' 'P'
+ {'k762', 'k7q1', 'khh1', 'k622', 'k2v', 'kq01', 'kqc', 'kl51', 'k19', 'kk6', 'kn81', 'kv81', 'k3x', 'kq81', 'krc1', 'k7d', 'k6h', 'k001', 'krw1', 'kh8', 'khz', 'kld1', 'kcf', 'kk4', 'k5w1', 'k561', 'kvz', 'kdg1', 'kdd1', 'ksl', 'kj01', 'k1k', 'kl02', 'krp1', 'k3b', 'k3l1', 'k882', 'kzw', 'kp41', 'k63', 'kqb2', 'k2x1', 'k0b1', 'k7w', 'k1g'}
+ 45]
+['474 475 476 478' 'P'
+ {'kf01', 'k762', 'k0c', 'k3r1', 'kp', 'kdn1', 'kl7', 'khc1', 'kmj', 'kl51', 'k9d1', 'k311', 'kq92', 'kn4', 'kxh1', 'kv52', 'k7b2', 'k78', 'kvh', 'k002', 'k012', 'kvk', 'kx01', 'kwd1', 'k3q', 'k881', 'kzr', 'k4d2', 'k0f1', 'k1n1', 'kd62', 'k0k1', 'k4c1', 'kqb2', 'kfl', 'kvs1', 'kdg'}
+ 37]
+['481 482 484 487' 'P'
+ {'kdp1', 'kfk1', 'k242', 'k4z1', 'kd41', 'kn81', 'kj41', 'kvh', 'ksg', 'km62', 'kr5', 'kb02', 'kkc1', 'k471', 'k7k1', 'k4l', 'kld1', 'k561', 'kvn', 'kvr', 'kr51', 'kf02', 'kx71', 'kn51', 'k2m', 'k3p', 'kfr', 'kpg1', 'k161', 'k272', 'k13', 'k4d2', 'k1w', 'kw', 'k861', 'k7v', 'kg71', 'k2x1'}
+ 38]
+['490 458 454 415' 'P'
+ {'khk1', 'ksp', 'k0c', 'k3r1', 'knl', 'khh1', 'kvp1', 'kq01', 'kb62', 'k211', 'kmx1', 'kvh', 'kb5', 'k23', 'kb32', 'kgp1', 'kq81', 'k1s', 'kb02', 'ksj1', 'kpb2', 'kpn1', 'khg1', 'khz1', 'kjb1', 'kf01', 'kv2', 'k5f1', 'k311', 'k13', 'k5k', 'kvg1', 'kkr1', 'kzk1', 'k1k1', 'kpp1', 'k131', 'k961', 'kn3', 'kd82', 'k861', 'kj4', 'kr02', 'kmj1', 'kqb2', 'kv1', 'k7w'}
+ 47]
+['452 417 418 419' 'P'
+ {'k462', 'kqp1', 'k3p', 'kpj', 'k492', 'k801', 'kjk', 'k2p1', 'klm1', 'k4', 'kz2', 'klw', 'kkb2', 'k78', 'kvd1', 'kfk', 'k6d2', 'kr5', 'k0r1', 'kmw', 'k3s', 'kz9', 'k891', 'km9', 'kj82', 'kcf', 'k7h', 'kvs1'}
+ 28]
+['422 424 426 427' 'P'
+ {'kd7', 'kpm', 'k7q1', 'klh1', 'kjj1', 'k0l1', 'kwz', 'k55', 'kp01', 'kl72', 'k0g1', 'kz61', 'kdq1', 'k442', 'kp21', 'krl1', 'kjb1', 'k691', 'kbv1', 'k9z1', 'kr72', 'k75', 'kw72', 'kbp1', 'k4m1', 'kdp', 'kkx1', 'kl8', 'k032', 'k1p1', 'kkw1', 'kgk1', 'k5g1', 'kxc1', 'km9', 'kqj', 'kwf1'}
+ 37]
+['428 432 434 437' 'P'
+ {'k64', 'kk22', 'kd42', 'k801', 'k0j1', 'k3w', 'kd41', 'k19', 'k8j', 'krn', 'kb5', 'kkl1', 'kl92', 'kkk1', 'kd62', 'kq8', 'k7d1', 'k351', 'k332', 'k33', 'k3k', 'k4f', 'kdj', 'kr71', 'k4m1', 'kkx1', 'kvx1', 'kzk1', 'kgk1', 'k822', 'k861', 'kzw', 'k2c1', 'k8b1'}
+ 34]
+['438 443 444 445' 'P'
+ {'kk11', 'kdp1', 'knl', 'kw9', 'klg', 'k0l1', 'kbh1', 'kv32', 'k042', 'kq91', 'kmk', 'kfk', 'kc61', 'kcl', 'krc1', 'kk21', 'k6r1', 'km82', 'k6z1', 'k1m1', 'kc6', 'kvs1', 'kdg1', 'kvc2', 'kr82', 'kl01', 'kh31', 'kr22', 'khb1', 'k2n1', 'kvv1', 'kzk1', 'kgk1', 'kn', 'kb7', 'ks92', 'kbw1', 'kf71', 'knq1', 'kq52', 'kg01'}
+ 41]
+['447 449 659 661' 'P'
+ {'kls1', 'kjr1', 'kvc1', 'kn71', 'khw1', 'kjj1', 'k9s', 'kd32', 'k512', 'ksb', 'kbv', 'kc61', 'k3q', 'kl72', 'kmf1', 'k5h', 'k382', 'kgd', 'kdm1', 'kql1', 'kdg1', 'khd', 'k532', 'k4d1', 'kn4', 'k5f1', 'kkb1', 'kl6', 'kkr1', 'kmz1', 'kvh1', 'k682', 'knk1', 'kbm', 'k3p1', 'kr81', 'k1g', 'k452'}
+ 38]
+['336 882 884 885' 'P'
+ {'kdg1', 'k6z1', 'k7g', 'kq5', 'ksp', 'kjk', 'k9d', 'k6x', 'k49', 'k4m1', 'kkb1', 'k76', 'kv9', 'k3g', 'k8d1', 'klv', 'k6k', 'kf12', 'kkr1', 'kzx', 'kgp1', 'kcl', 'k3q', 'ksd1', 'kkw1', 'k3k', 'kc02', 'kf2', 'kc8', 'k1', 'kh11', 'kgb2', 'k63', 'km81', 'kbv1', 'khq', 'kjw1'}
+ 37]
+['891 892 894 897' 'P'
+ {'k132', 'kzn1', 'kn12', 'k792', 'kjc2', 'k1j', 'kk22', 'k8l', 'kjj1', 'kpb', 'kz8', 'kcn1', 'kd41', 'kk6', 'kk32', 'kn81', 'km42', 'k6k', 'krc2', 'k0w1', 'kh72', 'k621', 'k511', 'klg1', 'kb02', 'kh1', 'knf', 'kp62', 'kf2', 'kpb2', 'kkk', 'krv', 'kr2', 'k561', 'kjw1'}
+ 35]
+['898 901 902 903' 'P'
+ {'k2q', 'k6s', 'k34', 'krk', 'k4r', 'k2x', 'kqx', 'kd41', 'kx41', 'k55', 'k5k', 'k9h', 'kz02', 'kq81', 'klr1', 'k46', 'kjd1', 'k74', 'kzl', 'k4d', 'kzw', 'kj1', 'ksk1', 'k26', 'k6w', 'kbq1', 'kcc'}
+ 27]
+['904 909 910 911' 'P'
+ {'kbd1', 'k412', 'k4g1', 'k352', 'kkb', 'kwn', 'k751', 'k7h1', 'kv9', 'k1x', 'kr42', 'kqz1', 'kj11', 'k032', 'kj12', 'kfr1', 'k1s', 'kz91', 'kq62', 'kz82', 'kff1', 'kfc2', 'kg71', 'k332', 'kkj1', 'k86'}
+ 26]
+['912 915 916 883' 'P'
+ {'khk1', 'kqq', 'kn31', 'k3r1', 'kn51', 'kq21', 'k9c1', 'khc', 'k242', 'k161', 'k76', 'krr', 'kdn', 'kkz1', 'khb1', 'kgn', 'kwn1', 'kp61', 'ksq', 'kbl1', 'kl3', 'khf1', 'kkg', 'k991', 'kr6', 'kpb2', 'kdj1', 'kr02', 'kgb2', 'kx41', 'kc6', 'kbv1', 'kdg'}
+ 33]
+['881 919 879 838' 'P'
+ {'kc21', 'kb62', 'kg72', 'k951', 'kn81', 'kj41', 'kqv1', 'kc61', 'knp1', 'kb02', 'ksj1', 'kmn', 'k8k1', 'k6w', 'kcf', 'k391', 'khr', 'kk71', 'ks11', 'kgc', 'kn51', 'kg51', 'kfh', 'k3c2', 'kk1', 'kfr1', 'km52', 'k3b2', 'kfz1', 'ks92', 'kw', 'kz9', 'kd22', 'k7p1', 'kr02', 'kf91', 'kv1', 'kwg1', 'kx1'}
+ 39]
+['840 841 846 847' 'P'
+ {'k34', 'k412', 'kv62', 'kvc1', 'k361', 'kb62', 'kz5', 'k8g', 'k972', 'kvh', 'kgp1', 'k011', 'k4x1', 'kz22', 'kqs1', 'k1n', 'kkc1', 'khn', 'kzr', 'k6r1', 'kb1', 'kkl', 'kh8', 'kcf', 'k0c2', 'kbv1', 'k81', 'kdd1', 'kpg1', 'khl', 'k6x', 'k4d1', 'k161', 'k5f1', 'kkb1', 'k8k', 'kvm', 'kl6', 'ksq', 'ksv1', 'kf5', 'khb1', 'kvm1', 'kph', 'kdb2', 'kzk1', 'klb1', 'kr02', 'k7n1'}
+ 49]
+['853 856 857 858' 'P'
+ {'kp9', 'k1v1', 'kvc1', 'kn81', 'kv9', 'kbv', 'kgk', 'kvh', 'kj41', 'kk72', 'k78', 'kr5', 'kbj', 'kkc1', 'k7f1', 'kf42', 'k852', 'khz', 'kgf', 'kjb1', 'krq1', 'kvr', 'k2', 'k4f', 'kx71', 'krk', 'kfg', 'kk82', 'kmf', 'kv', 'kc2', 'kjz1', 'ks82', 'kvx1', 'k4k1', 'kkw1', 'km52', 'k0f1', 'k0z', 'knf', 'k7v', 'kvb', 'kv1', 'k7w', 'kzn'}
+ 45]
+['861 862 866 868' 'P'
+ {'kv02', 'k34', 'kc21', 'k3r1', 'kdp1', 'kqv', 'kbh1', 'kl51', 'ksb', 'k3g', 'kbv', 'kh42', 'k3q', 'kpp', 'k241', 'kzr', 'k6h', 'kmn', 'k001', 'k3b1', 'kdm1', 'kpn1', 'knc', 'k3x1', 'k332', 'k561', 'k81', 'kkh', 'km7', 'kn91', 'k002', 'kpp1', 'k1w', 'kbc2', 'kn3', 'km9', 'kbz1', 'kj1', 'k59', 'kn41', 'kj82'}
+ 41]
+['871 872 873 876' 'P'
+ {'ksp', 'kd7', 'k1l1', 'kj8', 'kj3', 'k37', 'kk6', 'k711', 'krn', 'kj5', 'k011', 'k1s', 'knj', 'kdr1', 'kkc1', 'kk31', 'kpr1', 'kcv1', 'k4q1', 'ks91', 'kp21', 'kjb1', 'knn1', 'k3n1', 'kn51', 'k6c', 'klp1', 'kz41', 'kw1', 'kfj', 'kqz', 'k402', 'k46', 'k6r', 'kk01', 'kbm', 'kzw', 'k8x1', 'kv1', 'kqh1', 'k7n1'}
+ 41]
+['918 920 835 961' 'P'
+ {'kx82', 'kk22', 'khh1', 'k7j', 'km7', 'kpv', 'k622', 'k6x', 'kn4', 'kdp', 'k76', 'klw', 'kkb2', 'kf12', 'ksg', 'krz1', 'kgn', 'kgp1', 'kfk', 'khb1', 'kc5', 'k3b2', 'kfz1', 'k9j1', 'kh01', 'kxw1', 'kbc2', 'kgg', 'kkk1', 'kzw', 'k351', 'klb', 'kr2', 'kw11', 'kdg'}
+ 35]
+['967 968 973 974' 'P'
+ {'kx71', 'k412', 'kww', 'krk', 'k1v1', 'kgc', 'kdp1', 'k88', 'kjk', 'kpb', 'k6x', 'kh61', 'kxb1', 'k901', 'kkr1', 'kwn1', 'k4c2', 'k3q', 'k6z', 'kl3', 'k471', 'k171', 'ksk', 'km9', 'kpn1', 'k8k1', 'khg1', 'k8h1', 'kg7', 'k561'}
+ 30]
+['977 979 980 981' 'P'
+ {'k412', 'k6w', 'kqb', 'kn51', 'khc', 'kf', 'kq32', 'kd41', 'kv32', 'kcj', 'kwf', 'k291', 'kmf', 'k8l1', 'kkr1', 'k911', 'kph', 'kbj', 'kfr1', 'k7d', 'kh91', 'k651', 'k421', 'kz61', 'kh11', 'k4x', 'k2x1', 'k5w1', 'k8b1', 'kh41'}
+ 30]
+['982 984 985 988' 'P'
+ {'khk1', 'k762', 'kwp', 'k242', 'kpz1', 'kc61', 'km62', 'k3q', 'krc1', 'kvl', 'k471', 'kxf1', 'kkk1', 'kpb2', 'kd62', 'kd4', 'kpd', 'k9x', 'kz61', 'kzg', 'kld1', 'knq', 'kfc2', 'kf02', 'k6c', 'kdp', 'km42', 'k902', 'ks22', 'kr21', 'kdb2', 'kd71', 'kk61', 'kk9', 'kc22', 'k1', 'kmj1', 'kg71', 'kn7', 'kd'}
+ 40]
+['990 991 993 995' 'P'
+ {'kww', 'kqp1', 'k5x1', 'k7q1', 'kfk1', 'kks1', 'khh1', 'k3w', 'k512', 'k1q1', 'k291', 'ks5', 'k9k', 'kgp1', 'krx1', 'k011', 'kz91', 'k991', 'kzl', 'kwj1', 'kpn1', 'khg1', 'kpd', 'kwx', 'k6m1', 'k5w1', 'kc6', 'kjb1', 'kqq', 'kr1', 'kbd1', 'kgx', 'k0s', 'kk', 'k13', 'kk82', 'kd5', 'k8l1', 'kp7', 'kmm1', 'knf', 'k571', 'kk9', 'k7p1', 'km9', 'kvb', 'kd'}
+ 47]
+['996 965 960 927' 'P'
+ {'kd7', 'kk22', 'k4x', 'kb21', 'k6d', 'k0m1', 'kk8', 'k8j', 'kb5', 'k1s', 'kl41', 'kmn', 'kp31', 'k391', 'k86', 'kx71', 'k3m', 'krk', 'kfb1', 'k9d', 'k181', 'khk', 'k002', 'k0w1', 'k8l1', 'kz02', 'kzk1', 'k802', 'kh91', 'kn3', 'kf2', 'k1', 'kv1', 'krg1', 'kxd1', 'k8b1'}
+ 36]
+['958 928 929 930' 'P'
+ {'kdh1', 'khk1', 'kjr1', 'kk22', 'k7j1', 'kln1', 'kjj1', 'kvb1', 'kb5', 'k6z', 'kls', 'kkq', 'kb02', 'kw4', 'k991', 'k2m1', 'kk31', 'khz', 'kw11', 'kf22', 'kcc', 'k81', 'kzn1', 'k921', 'k462', 'k3m', 'k4d1', 'k6x', 'k1x1', 'kqz1', 'ks', 'k6k1', 'k802', 'kmj1', 'kpn', 'kw62', 'kx1'}
+ 37]
+['932 934 937 940' 'P'
+ {'kfp1', 'kr1', 'k412', 'kk11', 'kqc2', 'k6c', 'k0l1', 'kd41', 'k3g', 'kx81', 'kg71', 'k381', 'k2g1', 'kwn1', 'kq81', 'kdb2', 'k7d', 'klg1', 'k031', 'kd71', 'k1n', 'k93', 'knf', 'k74', 'k692', 'kd82', 'kpr1', 'k882', 'kd12', 'kh11', 'kz61', 'kzg', 'kp21', 'kz21', 'kv8', 'kf22'}
+ 36]
+['941 943 945 946' 'P'
+ {'khk1', 'k141', 'kc21', 'k3r1', 'k242', 'k2j', 'k38', 'kkp', 'k6k', 'k55', 'khv', 'kfk', 'k0h1', 'kfr1', 'kls', 'kzk1', 'kvl', 'kfz1', 'k1w', 'krx', 'k9c2', 'kd62', 'kss1', 'k7d1', 'k6g', 'k25', 'khr'}
+ 27]
+['947 949 952 953' 'P'
+ {'kn12', 'kv61', 'kc62', 'klm', 'k022', 'kwz', 'k8h', 'k4', 'kdn', 'k9q1', 'kzk', 'kl72', 'kb02', 'k6h', 'k2k', 'kdm1', 'krg1', 'kbq1', 'k561', 'kvc2', 'k921', 'krk', 'kpg1', 'kdj', 'k6c', 'kkc', 'k751', 'kcn1', 'kkb1', 'kl8', 'klj1', 'kkm', 'kzk1', 'ks01', 'kp51', 'k0l', 'k9c', 'kqb2', 'kwg1', 'k0b1'}
+ 40]
+['956 957 837 834' 'P'
+ {'k8p1', 'kjr1', 'k7q1', 'kn71', 'k3w', 'kd41', 'kv9', 'k3g', 'k9p1', 'k221', 'kw32', 'k0h1', 'k9k1', 'ksk', 'khg1', 'kc81', 'k332', 'kx41', 'kw11', 'k391', 'k3k', 'k141', 'k14', 'kll1', 'khp1', 'k3c1', 'k4n1', 'k8k', 'kjc', 'kvk', 'kpg', 'k4k1', 'k5g1', 'kn3', 'kvg', 'k0k1', 'kr02', 'k6h1', 'kqb2', 'kz21', 'k7n1'}
+ 41]
+['662 699 701 703' 'P'
+ {'kdp1', 'kks1', 'k8l', 'kw91', 'kmc', 'kjw1', 'kd41', 'kcz1', 'kkb2', 'k5h1', 'kqf', 'k3q', 'k6z', 'k2k', 'kn22', 'kcv1', 'kpd', 'k342', 'k332', 'kdb', 'k832', 'k2', 'kr1', 'k0j', 'k462', 'kwb1', 'kk52', 'kjv', 'k6x', 'kmg1', 'k5f1', 'kh82', 'k9z', 'k8l1', 'kbf', 'kvk', 'k9p', 'k8h1', 'ks32', 'kzn'}
+ 40]
+['705 709 710 711' 'P'
+ {'kv02', 'k3m', 'k2', 'kzs1', 'kfv1', 'kn91', 'kgg1', 'kqx', 'k3w', 'k76', 'kd41', 'k2n', 'kq91', 'k6k', 'k072', 'kk82', 'kd01', 'khb1', 'k6d2', 'k621', 'krc1', 'kwg1', 'k1w', 'kz91', 'ksr1', 'ksk', 'kl61', 'k001', 'k861', 'kzw', 'kmj1', 'kjs1', 'kkm1', 'kqh1', 'kcp1', 'kf82'}
+ 36]
+['714 715 716 717' 'P'
+ {'kww', 'kk22', 'k7q1', 'kfk1', 'khc1', 'kmv1', 'k072', 'k4v1', 'k291', 'k9k', 'k3q1', 'k1s', 'kcw1', 'k991', 'k66', 'k662', 'k4k', 'khz', 'k921', 'kwc', 'kjx1', 'k3p', 'k4r', 'kn4', 'kx51', 'kpc1', 'kpc', 'k83', 'kl6', 'kdx', 'kzk1', 'k4k1', 'kg52', 'kq62', 'kdr', 'kwk', 'kh11', 'krv', 'kx1', 'khx1', 'k1g'}
+ 41]
+['720 721 726 731' 'P'
+ {'kd7', 'kp9', 'k4p', 'k1l1', 'kww', 'k8h', 'k4', 'k38', 'k19', 'kk6', 'kd81', 'kv9', 'kvh', 'kws1', 'k6d2', 'kzb', 'kr5', 'k8n', 'knj', 'k0g1', 'khg1', 'kwb2', 'kcc', 'k8s1', 'kbg', 'kh52', 'khc', 'k4r', 'k5f1', 'kkb1', 'kmf', 'kfb', 'kz', 'kk3', 'kh1', 'kj42', 'kzw', 'k3p1', 'kqb2'}
+ 39]
+['735 737 740 700' 'P'
+ {'kqh', 'kv02', 'k8l', 'khb', 'k622', 'kkb2', 'kq91', 'ksg', 'kc61', 'k911', 'kkw', 'kx92', 'k4x1', 'kw8', 'k2k', 'k7k1', 'k5v1', 'kpb2', 'ksq1', 'kjs1', 'k7d1', 'k36', 'kdb', 'k832', 'kvs', 'k141', 'k1h', 'kdz1', 'kn51', 'kpg1', 'k4d1', 'kn4', 'kkp', 'k212', 'ksv1', 'kwm', 'kx01', 'k0r', 'k1w', 'k171', 'kbz1', 'k4x'}
+ 42]
+['698 749 697 664' 'P'
+ {'ksp', 'kdp1', 'klm', 'k0j1', 'kk8', 'k381', 'kgj', 'kr5', 'k4x1', 'kl3', 'k5v1', 'kd62', 'kcv1', 'khg1', 'k561', 'kdg', 'kf01', 'khp1', 'k3p', 'k831', 'kjk', 'kk52', 'k9d', 'kkp', 'kz02', 'km52', 'kd82', 'kf2', 'k882', 'kdk1', 'kg71', 'kx1'}
+ 32]
+['665 666 668 670' 'P'
+ {'kj8', 'kmx', 'k8l', 'k9c1', 'kqv', 'k0j1', 'kpb', 'km01', 'k19', 'k291', 'kf12', 'klr1', 'kxk1', 'kf42', 'kkk1', 'k79', 'kpb2', 'kh8', 'kr2', 'kcc', 'kf02', 'kg61', 'kdd1', 'kn31', 'ks4', 'khc', 'k4n', 'kh61', 'k032', 'khb1', 'kdb2', 'kh2', 'kp11', 'klk', 'k861', 'krw', 'k1', 'khc2', 'k7n1'}
+ 39]
+['673 674 675 676' 'P'
+ {'k0c', 'kk11', 'kk12', 'kk22', 'kd9', 'k8l', 'k9c1', 'k9d1', 'k76', 'k1h1', 'krg', 'kdn', 'kfm', 'kz6', 'kks', 'kn11', 'kq81', 'k6d2', 'kbl', 'k1s', 'klb2', 'kh1', 'kmp1', 'kjg', 'kl12', 'k2k', 'kgg', 'kzw', 'k2v1', 'kpn1', 'k5', 'k4w', 'k2f', 'kd', 'kvr'}
+ 35]
+['681 683 684 685' 'P'
+ {'kzq', 'kv61', 'k151', 'kc21', 'k252', 'kr82', 'k3p', 'k86', 'kwz', 'k161', 'kp82', 'k9w1', 'ks52', 'kkz1', 'kbj', 'k4k1', 'kgk1', 'k3k', 'k0f1', 'kk61', 'kk41', 'k5r1', 'khg1', 'kp41', 'kss1', 'k8k1', 'k6h1', 'kd', 'kch1', 'kcc', 'k382'}
+ 31]
+['686 689 695 696' 'P'
+ {'ksb1', 'k1l1', 'k412', 'kc62', 'kww', 'k1v1', 'khh1', 'k622', 'kk92', 'k53', 'kp82', 'k211', 'k19', 'krr', 'kvh', 'k3r', 'k381', 'kv7', 'k0c1', 'k5v1', 'kb', 'kq42', 'k7d1', 'kjs1', 'k3c1', 'k4n1', 'kfj1', 'kjc', 'kk82', 'kwd1', 'kpc2', 'ks41', 'kmj1', 'knr', 'kmk1', 'km81', 'k392', 'k8b1'}
+ 38]
+['744 750 833 795' 'P'
+ {'khk1', 'kv02', 'kfs1', 'khh1', 'k361', 'kqv', 'kqm', 'kv9', 'kq91', 'k7b2', 'kfk', 'kbj', 'k011', 'kdc2', 'k511', 'kz91', 'k6r1', 'k991', 'k7k1', 'k3f', 'k5r1', 'kcv1', 'kz61', 'kgc1', 'kld1', 'k472', 'kdd1', 'k2w', 'kh31', 'k5f1', 'kkb1', 'km42', 'kqz1', 'k8l1', 'kdb2', 'k881', 'k4k1', 'kgk1', 'kpx1', 'kxb', 'kb7', 'k0k1', 'kmj1', 'klm1'}
+ 44]
+['797 798 800 801' 'P'
+ {'kd7', 'k28', 'k3r1', 'kbk1', 'k7q1', 'kdn1', 'k771', 'k76', 'kp4', 'kj32', 'kvh', 'k481', 'kwn1', 'k6d2', 'k4b1', 'k011', 'k7d', 'k9f', 'kxf1', 'k991', 'kkk1', 'kpd', 'kq11', 'k691', 'k2q', 'k921', 'kjx1', 'kgx1', 'khk', 'kwv1', 'kfj', 'kz02', 'k4k1', 'kzk1', 'k9f1', 'kcb2', 'kn3', 'kj', 'kh62', 'kl11', 'k3p1', 'kj82'}
+ 42]
+['805 806 808 810' 'P'
+ {'kc51', 'kf3', 'kk12', 'k7q1', 'kzm1', 'kfk1', 'kbg1', 'kd41', 'k512', 'kvh', 'k9p1', 'k9k', 'kkf', 'kb02', 'khn', 'kzl', 'k6', 'kgb2', 'kjs1', 'k33', 'k3k', 'k2q1', 'km7', 'kn4', 'km42', 'k002', 'k7n', 'kdb2', 'kfz1', 'k722', 'kn3', 'kc11', 'kmj1', 'k39', 'kg71', 'krv', 'k8m1'}
+ 37]
+['813 814 816 817' 'P'
+ {'kn12', 'k3n', 'kk12', 'kj91', 'knl', 'kqc', 'k0l1', 'k8h', 'kkb2', 'kq91', 'k4v', 'kr42', 'k03', 'kdd', 'k432', 'k4x1', 'kkc1', 'kgb2', 'k672', 'kcv1', 'k351', 'kp21', 'k33', 'k332', 'k3k', 'kf01', 'k3m', 'k4d1', 'kxs', 'kk82', 'kqz1', 'kmf', 'k65', 'kv', 'ksx', 'kvk', 'kcv', 'kxk', 'kvv1', 'k1w', 'k822', 'kz9', 'kh11', 'kg71', 'k8h1', 'k711', 'k1g', 'k452'}
+ 48]
+['818 824 825 828' 'P'
+ {'k7g', 'k762', 'kv02', 'knm', 'k7q1', 'kfk1', 'k622', 'kq01', 'kmw1', 'kn4', 'kpc1', 'kk6', 'kn81', 'k082', 'kd', 'kgn', 'k0h1', 'k6z', 'k4b', 'k011', 'k511', 'k0m', 'kqb2', 'kk21', 'kcq', 'kd82', 'kgb2', 'kq52', 'kr02', 'k4q1', 'k5', 'k3x1', 'kjb1', 'k7w'}
+ 34]
+['832 796 794 751' 'P'
+ {'kls1', 'kqh', 'k34', 'klm', 'kfk1', 'kp72', 'kk6', 'kck1', 'kdm', 'k78', 'k97', 'k221', 'kqv1', 'kpp', 'k4x1', 'k5m1', 'k74', 'kpr1', 'kd62', 'k8k1', 'knc', 'k7d1', 'k4k', 'kpd', 'km11', 'kdg1', 'k1q', 'khp1', 'km7', 'kfb1', 'k4n1', 'k6x', 'kxm', 'k9d1', 'kkx1', 'kfx1', 'kfj', 'kg62', 'kc3', 'k21', 'kh51', 'kb7', 'kk41', 'k861', 'k0k1', 'kv3', 'k2k1', 'k711'}
+ 48]
+['793 752 753 758' 'P'
+ {'kx12', 'k371', 'k3r1', 'krk', 'kbb1', 'kfk1', 'k3c1', 'kwz', 'km1', 'kb41', 'k512', 'kk', 'k13', 'kd', 'k0w1', 'kb5', 'kj9', 'k1p1', 'kz22', 'kvl', 'k7d', 'kq3', 'kk21', 'kkk1', 'k4h1', 'kkq1', 'kfc2', 'kwg1', 'k88', 'k7n1', 'k1g'}
+ 31]
+['759 760 762 763' 'P'
+ {'krv', 'kvc2', 'k921', 'kgc', 'kgm', 'kww', 'khp1', 'k6z1', 'knb1', 'khc', 'kwz', 'kfc', 'kd51', 'kx2', 'kdv', 'k9d1', 'k501', 'kmf', 'k8j', 'kkz', 'k9x1', 'kkf', 'kkc1', 'ksr', 'kk21', 'kf42', 'k7p1', 'k712', 'kpn1', 'k3p1', 'kh8', 'khg1', 'kj82', 'k7n1', 'k81'}
+ 35]
+['765 769 770 773' 'P'
+ {'k8l', 'kq01', 'k242', 'k38', 'k19', 'k232', 'kl72', 'kw8', 'kxf1', 'kq7', 'kz91', 'kw21', 'kkk1', 'kjb1', 'k3k', 'kdd1', 'k1q', 'kx71', 'k3p', 'k2m', 'kk42', 'ksn', 'khc', 'k4d1', 'kc12', 'kdv', 'kpc1', 'k6k', 'kvf', 'k881', 'k1w', 'kr9', 'k4c', 'kq52', 'k63', 'kgb2', 'kr81', 'k8b1', 'kkj'}
+ 39]
+['774 781 782 783' 'P'
+ {'kxc2', 'kjx1', 'klc2', 'k3p', 'kms', 'kfk1', 'k8w1', 'k951', 'k7q', 'klq1', 'kcn1', 'kgd1', 'kgn', 'kgb', 'kjm1', 'kcl', 'k011', 'kzk1', 'k881', 'kz62', 'k471', 'k0m', 'kd82', 'kz31', 'kzw', 'kw62', 'kbv1'}
+ 27]
+['788 789 337 999' 'P'
+ {'kj8', 'kkb', 'k242', 'kkf1', 'kqx', 'kdv', 'k13', 'kpc', 'klf1', 'k2b', 'k3q', 'k011', 'k1s', 'kqn1', 'k471', 'k031', 'kv22', 'k7f1', 'k7k1', 'k3j1', 'khg1', 'kx', 'kld1', 'k4q', 'kjb1'}
+ 25]
+['335 171 160 161' 'P'
+ {'kd7', 'km6', 'k462', 'kpg1', 'k8l', 'kdn1', 'kq01', 'k532', 'kkc', 'k181', 'k491', 'kqj1', 'kd41', 'kqs', 'kxl', 'k002', 'kv81', 'kkz1', 'kgj', 'kkf', 'k982', 'kbm1', 'khn', 'k1w', 'k74', 'kk9', 'k642', 'k7p1', 'kb9', 'k7d1', 'k7p'}
+ 31]
+['163 165 168 169' 'P'
+ {'k762', 'kd7', 'k0c', 'kc21', 'klm', 'kdn1', 'kq01', 'k0l1', 'k951', 'k4g', 'k4x1', 'knj', 'k1s', 'kzr', 'kv7', 'km61', 'k3h', 'khg1', 'kz61', 'kv82', 'kk51', 'k2h', 'kr1', 'kr51', 'kgc', 'km7', 'kxb2', 'k082', 'km42', 'k431', 'kkr1', 'khj1', 'km52', 'kf9', 'kp62', 'kk9', 'km5', 'k0k1', 'kr02', 'kgb2', 'kv8'}
+ 41]
+['172 129 173 175' 'P'
+ {'kvc2', 'knm', 'k3p', 'k7q1', 'kks1', 'kdn1', 'kcm', 'k142', 'k2n', 'k3w', 'kpc1', 'kl6', 'k842', 'kgw1', 'k55', 'k8l1', 'krz1', 'k221', 'kjl', 'k5p1', 'kh42', 'kkr1', 'k511', 'kl9', 'k9j1', 'kxf1', 'kmn', 'k6j1', 'kvb', 'kdm1', 'k6l', 'k7d1', 'k342', 'klv1', 'kbv1', 'k391'}
+ 36]
+['180 182 183 185' 'P'
+ {'k762', 'k92', 'klz', 'kms', 'k361', 'k3c1', 'knl', 'k7c', 'kjj1', 'kb41', 'kcj', 'ksw', 'km42', 'k3g', 'k8h1', 'k8l1', 'khb1', 'kgp1', 'kbd', 'k881', 'kdb2', 'kcw1', 'kwz1', 'k4z', 'k2k', 'kq3', 'klk', 'kz9', 'k33', 'k8x1', 'k7x1', 'k6v1', 'k2x1', 'kg7', 'kbv1', 'k3k'}
+ 36]
+['158 157 156 155' 'P'
+ {'khk1', 'kkd', 'k64', 'k1l1', 'krs', 'k38', 'kz5', 'krr', 'k9h', 'ksd1', 'kz22', 'k7d', 'kxf1', 'k692', 'kk31', 'kkk1', 'k4c1', 'kh8', 'khq', 'kdg', 'k1j', 'k3c1', 'k8b', 'kh02', 'k311', 'kpc1', 'klz1', 'k8g1', 'k21', 'kfr1', 'kzk1', 'k802', 'kxb', 'kq12', 'km9', 'k5b2', 'kr02', 'kh11', 'kkv1', 'kg7', 'k051'}
+ 41]
+['153 152 151 150' 'P'
+ {'kqh', 'k1l1', 'k7q1', 'kdp1', 'kq01', 'k242', 'k3w', 'kp32', 'k9k', 'kc61', 'k9', 'kb02', 'kkc1', 'k692', 'k872', 'kgj1', 'k602', 'kx41', 'kvs1', 'k462', 'krk', 'k302', 'km7', 'k9d1', 'kpc', 'krl', 'k212', 'kv', 'k7s1', 'k881', 'kb7', 'kz82', 'kz11', 'k3p1', 'k59', 'kg71', 'k4x', 'kwg1', 'kj82', 'k7n1', 'kjw1'}
+ 41]
+['147 146 144 143' 'P'
+ {'kj91', 'kk22', 'kvq1', 'k8l', 'k062', 'khc1', 'k8h', 'k7n1', 'k512', 'k871', 'k1x', 'kv81', 'k381', 'k9q1', 'k9k', 'k5d1', 'k7d', 'k6z1', 'kr2', 'kbv1', 'kl31', 'k1q', 'kpg1', 'kjk', 'kmv', 'kkb1', 'k13', 'klc1', 'k0b2', 'kqz1', 'kcv', 'kzk1', 'kfz1', 'k061', 'k0k1', 'kkv1', 'kg7', 'k711', 'kwk1'}
+ 39]
+['138 137 134 133' 'P'
+ {'kv02', 'kpl1', 'kc21', 'kdp1', 'k8l', 'k622', 'k771', 'k8h', 'kh42', 'kqf', 'k9k', 'kcl', 'k3q', 'klr1', 'klg1', 'k4x1', 'kkf', 'kl42', 'k3j1', 'k192', 'kpb2', 'kn62', 'kgz', 'khz', 'k3x1', 'k332', 'kx41', 'kdz1', 'krk', 'kwb1', 'k8q1', 'kqz1', 'klz1', 'knf', 'kk41', 'kz9', 'kk9', 'kck', 'ksk1', 'ks61', 'kg71', 'k7k', 'k8h1', 'k88', 'k1g', 'k452'}
+ 46]
+['131 188 190 191' 'P'
+ {'ks9', 'kx82', 'kjx1', 'kq21', 'k7q1', 'kp72', 'k19', 'kdw', 'kck1', 'k6k', 'kh42', 'ksq', 'kcl', 'kdb2', 'k942', 'kl3', 'kkq', 'kzr', 'kl72', 'kl9', 'k6r1', 'k74', 'kzl', 'kc81', 'k18', 'k8h1', 'kjb1', 'k81', 'khr'}
+ 29]
+['234 257 256 253' 'P'
+ {'kr1', 'k141', 'kx9', 'k3m', 'khj', 'k4x', 'k361', 'kx4', 'k9c1', 'kqv', 'k8h', 'kpc1', 'kz02', 'ksq', 'kkr1', 'k05', 'kpc2', 'kz22', 'k362', 'kk21', 'k581', 'kk31', 'k3c', 'k672', 'k5r1', 'klq', 'kfv', 'kqb2', 'kv1', 'kkm1', 'kx1', 'kc6', 'k0b', 'k3k'}
+ 34]
+['252 250 249 248' 'P'
+ {'k412', 'kjr1', 'khw1', 'k76', 'kqs', 'k5d', 'kvh', 'k7b1', 'k4c2', 'kw71', 'k611', 'kkc1', 'kkk', 'k9z1', 'k86', 'kf01', 'kjx1', 'ks51', 'kr82', 'kjk', 'k4r', 'kkf1', 'k5f1', 'kpc', 'k7c2', 'k0w1', 'ks2', 'kx01', 'k1p1', 'k912', 'kzk1', 'kqf1', 'kw', 'kkv', 'k882', 'k091', 'kh11', 'kxx1', 'kz21', 'k711'}
+ 40]
+['246 244 243 242' 'P'
+ {'kn12', 'k34', 'kkd', 'k632', 'kxs1', 'kw01', 'k072', 'k5c2', 'kdn', 'kfk', 'k911', 'k6d2', 'k4b1', 'kq81', 'k471', 'kf42', 'ksj1', 'k2m1', 'kkl', 'k66', 'k5r1', 'kzc2', 'k3x1', 'kf22', 'k391', 'khs1', 'k3k', 'khp1', 'k181', 'kkb1', 'k2g', 'k8l1', 'k3b', 'klb1', 'kl9', 'k802', 'kh1', 'ksr1', 'kb51', 'kmj1', 'k7c1', 'k711', 'k452'}
+ 43]
+['238 237 236 231' 'P'
+ {'k292', 'kvq1', 'k7q1', 'k862', 'k191', 'kr42', 'kh42', 'k381', 'k82', 'krc1', 'k7d', 'k8w', 'k5v1', 'krb2', 'k8k1', 'kk4', 'kvs1', 'kdd1', 'k462', 'knh', 'km7', 'k532', 'k161', 'kdp', 'ksw', 'ks62', 'kvf', 'kz02', 'kgn', 'kx01', 'k9x1', 'ksh', 'k031', 'k861', 'kgb2', 'kv1', 'kfg1', 'k452'}
+ 38]
+['195 227 226 224' 'P'
+ {'k412', 'klm', 'ksc2', 'kq01', 'k3w', 'krk1', 'kk6', 'kn81', 'k3g', 'kj41', 'k381', 'k9h', 'krn', 'k221', 'kjl', 'k5c', 'k001', 'k672', 'kg71', 'k0d2', 'kjb1', 'kr51', 'kfc', 'kx2', 'k002', 'kgn', 'k092', 'k9j1', 'k3c', 'k7p1', 'k7v', 'kbz1', 'kbm', 'k6h1', 'kp5', 'kqb2', 'kmj1', 'k4x', 'kjw1'}
+ 39]
+['223 221 218 215' 'P'
+ {'khk1', 'kr82', 'km02', 'kx72', 'kp6', 'k361', 'kjs1', 'k532', 'k38', 'kvd', 'kjb1', 'kj41', 'kwv', 'k78', 'kmf', 'kj9', 'ks22', 'kg62', 'k8n1', 'kbn1', 'k471', 'k0f1', 'k791', 'k9l', 'khg1', 'khs', 'kz21', 'kj82'}
+ 28]
+['214 207 206 204' 'P'
+ {'kwz', 'k291', 'k9h1', 'kbj', 'kcl', 'klj', 'kl72', 'k6r1', 'k991', 'kzg', 'kn82', 'k41', 'k1q', 'knm', 'km7', 'kfb1', 'k4r', 'kcn1', 'kx51', 'kh82', 'kk82', 'k83', 'kfj', 'kqz', 'kgn', 'kwd1', 'k802', 'kzk1', 'k5g1', 'kz42', 'kr02', 'k6v1', 'kv8'}
+ 33]
+['200 199 198 130' 'P'
+ {'kks1', 'khh1', 'k4g', 'km81', 'kv9', 'ks71', 'k55', 'kh42', 'kb5', 'kq81', 'k6z', 'kq02', 'kr52', 'k74', 'k991', 'kfc2', 'k7d1', 'kp21', 'kdz', 'kw11', 'khr', 'km', 'k141', 'kgc', 'kx71', 'kxp', 'kn4', 'khk', 'kk82', 'kc2', 'kkw1', 'kzk1', 'kwq1', 'k89', 'ksr1', 'kz9', 'kz82', 'k0k', 'ksk1', 'k63', 'kn41', 'k11', 'klv1', 'k8b1'}
+ 44]
+['128 262 54 46' 'P'
+ {'kf01', 'kqq', 'k0c', 'k921', 'k1v1', 'kn71', 'k8l', 'k3c1', 'kjs1', 'kjk', 'k4d1', 'kn4', 'k9d1', 'kq11', 'k2c', 'kc72', 'k032', 'kgn', 'kf21', 'kfr1', 'kz22', 'kl72', 'kzk1', 'k1s', 'kz9', 'k3j1', 'kf71', 'kkk1', 'k091', 'k39', 'kqb2', 'kx41', 'kd', 'kj82', 'khr'}
+ 35]
+['47 49 51 52' 'P'
+ {'k29', 'kn12', 'k1j1', 'kvc1', 'k4x', 'kdn1', 'kv41', 'kw52', 'k76', 'k512', 'kkb2', 'kv81', 'ksg', 'krx1', 'k9s1', 'kb02', 'kkc1', 'kq3', 'kz91', 'k3b1', 'kh8', 'kcf', 'kbc1', 'k5w1', 'k25', 'kcc', 'kxw', 'kz8', 'kx6', 'kpc', 'k6k', 'kqz1', 'kvd1', 'kz02', 'kvk', 'kkr1', 'kkw1', 'k4k1', 'kgk1', 'kf71', 'kbn', 'kkv1', 'k8h1', 'kd', 'kzn'}
+ 45]
+['53 55 126 57' 'P'
+ {'kb11', 'kx71', 'kpg1', 'k7j1', 'k0j1', 'k181', 'kvn1', 'knm1', 'k19', 'knb2', 'k76', 'kl6', 'kr42', 'km72', 'kjl', 'kr5', 'kx92', 'kw81', 'k2k', 'kpr1', 'k7p1', 'k0p1', 'kvp', 'k8k1', 'k332', 'kd', 'k711', 'kb92', 'kdg'}
+ 29]
+['58 59 61 64' 'P'
+ {'k6x1', 'k141', 'k1q', 'kc1', 'kx4', 'kb62', 'k0s', 'k9c1', 'khc1', 'kn4', 'k512', 'ksp1', 'kfk', 'kgn', 'k84', 'kvc', 'k2n1', 'kf21', 'kzk1', 'knj', 'ks21', 'k011', 'kfz1', 'kq62', 'kwj1', 'kqb1', 'kqb2', 'kcl1', 'k561'}
+ 29]
+['65 44 40 37' 'P'
+ {'khk1', 'k1l1', 'k412', 'k0c', 'kzj', 'k6f1', 'kdn1', 'ks7', 'kjj1', 'kq32', 'kd32', 'kbv', 'kp2', 'kh3', 'kgp1', 'kcl', 'k6h', 'kfx', 'k7k1', 'kv7', 'ksf', 'k351', 'k6z1', 'k271', 'kjb1', 'k86', 'kr51', 'k3m', 'k4r', 'k5l', 'k13', 'kc2', 'klz1', 'kf21', 'k0k1', 'kr02', 'kq52', 'krv', 'k4x', 'kx1'}
+ 40]
+['36 32 31 30' 'P'
+ {'kv61', 'kn12', 'k412', 'k5b', 'k3r1', 'kq01', 'k242', 'krq', 'k7q', 'kvh', 'k291', 'kg', 'k221', 'k4c2', 'klg1', 'kl42', 'kkc1', 'khn', 'k692', 'kpb2', 'k73', 'k6w', 'kvs1', 'k0j', 'k1q', 'kz3', 'k4g1', 'kcc1', 'km7', 'k542', 'k7j', 'kq4', 'kbs', 'k4m1', 'kqz1', 'kr21', 'kkw1', 'k08', 'ksb2', 'kk01', 'kck', 'k1c', 'k261'}
+ 43]
+['27 26 20 18' 'P'
+ {'kn12', 'k0c', 'kjr1', 'kc41', 'k361', 'khh1', 'k3m1', 'kqc', 'kl51', 'knl1', 'k3g', 'k3q', 'kcl', 'krh1', 'kj21', 'kmr', 'kz91', 'k692', 'k0g1', 'kpr1', 'k5r1', 'kg92', 'k9x', 'kg82', 'kvw', 'k332', 'k271', 'kvs1', 'kvr', 'kvc2', 'kgc', 'kx71', 'kr82', 'k2m', 'k9d1', 'k13', 'kjc', 'kl21', 'ksv1', 'kx1', 'k112', 'k572', 'kxr', 'kcb2', 'kf9', 'kf7', 'k5x', 'kv1', 'kbb1', 'k8q'}
+ 50]
+['15 12 10 8' 'P'
+ {'kd7', 'kv61', 'kdp1', 'kfk1', 'k2w1', 'k582', 'k0l1', 'kl51', 'k76', 'kk6', 'kkb2', 'k82', 'kc61', 'k911', 'kcl', 'kr5', 'k692', 'ks1', 'k001', 'kh8', 'kd91', 'k6d1', 'kk51', 'k561', 'k3k', 'kb82', 'khd', 'kdd1', 'k9n1', 'klf', 'k721', 'kcd', 'kwc2', 'kzg1', 'k6k', 'kz21', 'kfj', 'k3b', 'kjq', 'klb1', 'kc5', 'kw6', 'k3d1', 'kz9', 'km9', 'kr02', 'ks3', 'k1', 'kg7', 'kv8', 'k711', 'k452'}
+ 52]
+['6 2 66 67' 'P'
+ {'kd7', 'kdn1', 'k9c1', 'kf6', 'k9s', 'kv32', 'kpz1', 'k291', 'kj62', 'kkc1', 'khn', 'k661', 'k2m1', 'k001', 'krx', 'kpb2', 'kk31', 'k5r1', 'klb', 'k4q', 'k201', 'kvs1', 'k81', 'kn02', 'kr51', 'k141', 'k14', 'k502', 'kz02', 'klb1', 'kg11', 'knf', 'kjf1', 'k2l1', 'ksv', 'k652', 'kb6'}
+ 37]
+['68 97 124 123' 'P'
+ {'kr51', 'k29', 'kkh', 'k3p', 'kzm1', 'khc', 'kbg1', 'kvj1', 'k291', 'k212', 'kdc1', 'kz02', 'kkr1', 'k602', 'k6z', 'kbn1', 'kb02', 'krm1', 'kjk1', 'kfx', 'km9', 'k5q', 'k7r1', 'k1', 'kkk', 'kz61', 'k342', 'kpf1', 'k3k', 'kdg'}
+ 30]
+['119 118 117 116' 'P'
+ {'k762', 'k1b2', 'kr82', 'kv1', 'kpb', 'k721', 'kdp', 'k931', 'kg71', 'kfj', 'kjb', 'kvf', 'kmz1', 'k21', 'kxc', 'knj', 'k4x1', 'kcw1', 'k1w', 'kb7', 'kk21', 'kxf1', 'k0c1', 'k001', 'k651', 'k39', 'k2c1', 'kmk1', 'k332', 'kwg1', 'klb', 'k711', 'kcc', 'k86'}
+ 34]
+['115 114 108 105' 'P'
+ {'kd7', 'k412', 'k2h1', 'k1j1', 'k361', 'khc1', 'kwp1', 'k76', 'knd', 'kvh', 'kf12', 'kjl', 'kq6', 'kkr', 'kbk', 'kl72', 'khn', 'k74', 'k922', 'krx', 'k7d1', 'k41', 'k5b1', 'kf01', 'kjx1', 'kg6', 'k4g1', 'k3m', 'k6c', 'k4d1', 'kxm', 'k4m1', 'kkb1', 'k6n1', 'kfj1', 'k7c2', 'kk82', 'kg62', 'k8l1', 'kkm', 'k8g1', 'kwd1', 'kjg1', 'kdb2', 'kqb2', 'kb7', 'kk9', 'k882', 'kgb2', 'k4x'}
+ 50]
+['104 102 101 99' 'P'
+ {'kzq', 'kwg', 'k3r1', 'knl', 'k0l1', 'kk91', 'kv9', 'kh42', 'k55', 'k221', 'kgp1', 'kfn', 'knj', 'k4x1', 'k1s', 'k471', 'kf42', 'ksk', 'k2m1', 'kss1', 'k8k1', 'kjb1', 'k5w1', 'k3k', 'kwb2', 'kx12', 'kqk1', 'khc', 'kqp', 'k161', 'k13', 'kr91', 'k851', 'kx01', 'kn2', 'km52', 'k982', 'k4d2', 'k711'}
+ 39]
+['96 69 95 94' 'P'
+ {'k371', 'k0c', 'kdp1', 'knl', 'kvc1', 'kzr1', 'k0n', 'kk72', 'krn', 'k4c2', 'kkc1', 'kvj', 'kkk1', 'kpn1', 'kl52', 'khr', 'kl31', 'kqk1', 'k9j', 'k5j', 'k3c1', 'k7r', 'kn91', 'kk', 'kkp1', 'kl6', 'klz1', 'k65', 'k45', 'kkm', 'k572', 'kkw1', 'kb01', 'kbm', 'kzw', 'kr02', 'k541'}
+ 37]
+['93 91 88 86' 'P'
+ {'kqh', 'kv61', 'knk', 'kk22', 'k7q1', 'khh1', 'kdn1', 'k0j1', 'krj1', 'k971', 'k932', 'k3g', 'kbv', 'kj41', 'kdn', 'k381', 'k9h', 'k221', 'kh42', 'kp32', 'k3j', 'knp1', 'kpk1', 'k6r1', 'kf42', 'kx52', 'k351', 'kdw1', 'kw11', 'k81', 'kqq', 'km7', 'k532', 'k0s', 'kjk', 'kpc1', 'kff', 'k12', 'klz1', 'k212', 'kgk1', 'kmq', 'kj4', 'k58', 'k0g'}
+ 45]
+['85 84 82 80' 'P'
+ {'k762', 'k1q', 'kww', 'k3c1', 'kfb1', 'kqc', 'kpb', 'kkf1', 'kx51', 'k44', 'k232', 'kn81', 'kh6', 'kqv1', 'k8l1', 'kx01', 'kxv', 'kjl', 'k9k', 'kfr1', 'kcl', 'kwg1', 'kr12', 'k63', 'k7d1', 'km81', 'kk4', 'k691', 'kdg'}
+ 29]
+['79 76 72 71' 'P'
+ {'khk1', 'kk12', 'k8c', 'k531', 'k6q', 'kqx', 'knb2', 'khn1', 'k3g', 'kh42', 'kf12', 'k4x1', 'k2m1', 'k001', 'kq8', 'kpd', 'ksq1', 'k71', 'k3k', 'k86', 'kj6', 'kx71', 'k462', 'kc4', 'krk', 'k12', 'k002', 'k912', 'kfr1', 'kgk1', 'kbm', 'k651', 'kg7'}
+ 33]
+['259 162 273 304' 'P'
+ {'ksp', 'k34', 'kq1', 'kdp1', 'kvc1', 'kqv', 'kwz', 'k702', 'k291', 'kk72', 'kfk', 'kc61', 'kgj', 'kcl', 'khn', 'kq3', 'k0g1', 'knr1', 'k3b1', 'k8c2', 'kw11', 'k86', 'k141', 'kx71', 'kr82', 'k3p', 'kl01', 'k532', 'kk82', 'k6p', 'kz72', 'kl21', 'kkm', 'k21', 'kf21', 'kdb2', 'kfq', 'kkw1', 'kn', 'kmc2', 'knf', 'kg12', 'k861', 'kh11', 'k4x', 'kj82', 'k7n1'}
+ 47]
+['266 322 297 330' 'P'
+ {'k762', 'klh', 'kl71', 'k1b1', 'ksg1', 'k242', 'kd02', 'knw1', 'kv32', 'krr', 'kr42', 'kh42', 'k8j', 'k82', 'kks', 'kjv1', 'kq81', 'k4c2', 'kdf', 'k7d', 'ksk', 'kw11', 'k391', 'kb4', 'kn51', 'kx21', 'k4d1', 'kx32', 'kl6', 'kps', 'ksv1', 'kdb2', 'kpq', 'kbc2', 'kbm', 'k091'}
+ 36]
+['295 269 324 270' 'P'
+ {'k5s', 'kdd1', 'krm', 'k582', 'kqv', 'k181', 'kcd1', 'k4d1', 'kr22', 'knl1', 'kdn', 'kb5', 'k911', 'k6m', 'k572', 'k4k1', 'kgk1', 'kkf', 'k1w', 'k9j1', 'kpb2', 'k7b', 'kbz1', 'kpn1', 'kq52', 'kld1', 'k4x', 'k5w1', 'k9z1'}
+ 29]
+['271 306 307 291' 'P'
+ {'kp9', 'kk11', 'kl4', 'k292', 'kms', 'k7q1', 'kqp1', 'kdn1', 'kqv', 'k181', 'k3w', 'k76', 'kxq', 'kl6', 'k8', 'k21', 'k6z', 'k9p', 'knj', 'kq02', 'kfz1', 'kv7', 'k74', 'k5v', 'ks42', 'kz42', 'kc11', 'kzc1', 'kld1', 'kgn1'}
+ 30]
+['327 290 289 285' 'P'
+ {'kjr', 'k3r1', 'kzm1', 'klm', 'kks1', 'k0q', 'kkg1', 'kn81', 'krr', 'khv', 'k82', 'k9k', 'kcw1', 'k511', 'ks21', 'kb02', 'kdr1', 'k222', 'kkc1', 'k991', 'kdm1', 'k001', 'kjj', 'kpn1', 'kss1', 'kvs1', 'kdg', 'kvc2', 'kdd1', 'k462', 'kr82', 'k612', 'k0s', 'k4r', 'k311', 'kwd1', 'kkw1', 'k881', 'k0f1', 'kk61', 'knf', 'kg12', 'kp62', 'kcg', 'k782', 'k39', 'km81'}
+ 47]
+['288 321 310 331' 'P'
+ {'kf01', 'kc51', 'k0c', 'khk1', 'kls1', 'krk', 'kfk1', 'kb62', 'kxz', 'kwz', 'k812', 'kv9', 'kr61', 'krr', 'kg62', 'kr92', 'k4s1', 'k481', 'kkr1', 'k4x1', 'kmb2', 'k9j1', 'kcb', 'kk21', 'k3d1', 'ksv', 'kbm', 'ksz', 'kgz1', 'kp5', 'kx41', 'kv8', 'khr'}
+ 33]
+['280 263 318 264' 'P'
+ {'kv61', 'kc21', 'km4', 'kqk', 'k7j1', 'k1g1', 'kxq', 'k741', 'kk72', 'kmk', 'kfk', 'k3q1', 'k9s1', 'kv7', 'kd11', 'kpr1', 'k66', 'kcl1', 'knp', 'krp', 'kqk1', 'km3', 'kxj1', 'km7', 'k161', 'k1z', 'k6g1', 'k4m1', 'k13', 'kx42', 'kqz1', 'khb1', 'k0f1', 'ks92', 'knf', 'k7p1', 'ks3', 'k1', 'km81', 'ks31'}
+ 40]
+[820 'L'
+ {'kw81', 'k881', 'k9j', 'knl', 'kq91', 'kn3', 'kkb1', 'krv', 'kp21', 'kz02'}
+ 10]
+[859 'L' {'kr82', 'k312', 'kq52', 'kkb2', 'klz1'} 5]
+[87 'L'
+ {'khk1', 'k21', 'kdg1', 'k6d2', 'kqb', 'k3p', 'kx52', 'km1', 'k9d1', 'k38', 'kg71', 'kj41', 'klr'}
+ 13]
+[827 'L' {'kx01', 'kgc', 'kmx1', 'khc', 'kd62', 'ksq1', 'kg32', 'kcf'} 8]
+[826 'L' {'kq81', 'k891', 'kz42', 'ksw', 'kv9', 'kq91', 'ksg'} 7]
+[314 'L'
+ {'km', 'kjl', 'kb32', 'kvk', 'k011', 'kh1', 'kz91', 'k2m1', 'k7p1', 'kkb2', 'kn42', 'kr2', 'kv81', 'kx62'}
+ 14]
+[89 'L'
+ {'k9k', 'k0c', 'kjn1', 'ksh1', 'k7v', 'kv11', 'k8f1', 'kq91', 'kr42', 'kd52', 'kb5', 'khr'}
+ 12]
+[823 'L' {'k34', 'k5l1', 'kkc1', 'knl', 'kjj', 'kld1', 'kv81'} 7]
+[822 'L' {'kg9', 'kcw', 'kpb2', 'k8h1', 'kk4', 'kk51', 'ksz1'} 7]
+[821 'L'
+ {'kl31', 'kww', 'k8l', 'kpk1', 'kp12', 'kjj1', 'k3j1', 'k351', 'kmf'} 9]
+[860 'L'
+ {'kdv1', 'k561', 'ks92', 'kjj1', 'kn3', 'k491', 'kqj1', 'k13', 'k332', 'ksm', 'kjw1'}
+ 11]
+[819 'L' {'k4h', 'k0r1', 'kl9', 'k9c', 'k2x1', 'kj82', 'k81'} 7]
+[374 'L' {'k492', 'kfz1', 'k3c1', 'k6', 'km8', 'k8l1'} 6]
+[317 'L' {'kqk1', 'k9x1', 'kqk', 'kdv', 'kk5'} 5]
+[863 'L'
+ {'k5s', 'kj8', 'kq51', 'kz81', 'k721', 'kk82', 'k5w1', 'k8j', 'kf81'} 9]
+[90 'L'
+ {'kjr1', 'kh1', 'k5v1', 'kqv1', 'kd82', 'ks02', 'km1', 'k351', 'kkb2', 'k1v', 'k691', 'krn'}
+ 12]
+[313 'L'
+ {'kf21', 'k4g1', 'k2m', 'k0r1', 'k361', 'k532', 'k321', 'kbm', 'kd32', 'k351', 'kz21', 'k391'}
+ 12]
+[92 'L'
+ {'k9k', 'k4c2', 'kl9', 'k9s1', 'k0f1', 'kvl1', 'k4d1', 'kz12', 'kqx', 'k691', 'kvs1', 'k86'}
+ 12]
+[815 'L'
+ {'khk1', 'krk', 'kkf', 'kn71', 'klm', 'k771', 'k4k', 'km42', 'k2'} 9]
+[312 'L' {'knj', 'k9q', 'k0s', 'kqv', 'kjj1', 'kh42', 'kkr1'} 7]
+[311 'L'
+ {'kc61', 'k2l', 'kfr1', 'k771', 'knd1', 'kmj1', 'kg71', 'k452', 'kr31'} 9]
+[812 'L'
+ {'kf01', 'k011', 'kq21', 'kk21', 'kpb', 'kk9', 'kdp', 'k931', 'kbv', 'kvr'}
+ 10]
+[811 'L' {'kd7', 'k9k1', 'knk', 'klb1', 'k682', 'kzd1', 'k4r', 'khg1'} 8]
+[829 'L' {'kjr1', 'kn92', 'kvj', 'khc', 'kr2', 'k221'} 6]
+[73 'L' {'kpx', 'k7d', 'knv', 'kz9', 'kn3', 'k6x', 'k5l', 'kvh', 'k221'} 9]
+[850 'L' {'kqq', 'k4k1', 'kkc', 'k74', 'kx51', 'kvh', 'kvr', 'kkz1'} 8]
+[842 'L' {'kz1', 'kxf1', 'kn8', 'kz9', 'k7p1', 'kfm', 'k101'} 7]
+[849 'L' {'kr51', 'k372', 'kr82', 'k241', 'k6r', 'kj41', 'kk82', 'k332'} 8]
+[851 'L' {'kr82', 'knm', 'k7q1', 'khp1', 'kf71', 'k7v1', 'khz', 'kx1'} 8]
+[852 'L'
+ {'k0c', 'k2d', 'kdp1', 'kkc1', 'k532', 'kkx', 'k76', 'k6z1', 'kr42'} 9]
+[848 'L' {'k5s1', 'kng', 'kcl', 'k0f1', 'k38', 'k54'} 6]
+[316 'L' {'k2k', 'kdn1', 'knd1', 'kpd', 'k4c1', 'kbv'} 6]
+[77 'L' {'kr51', 'k3n', 'kdb2', 'kz42', 'k76', 'k512', 'kr92'} 7]
+[854 'L' {'k1q', 'kk3', 'k1k', 'kf62', 'knx', 'k002'} 6]
+[78 'L'
+ {'kr41', 'kf21', 'ksl', 'klb1', 'k8w', 'kmc', 'k4r', 'kpb', 'kmj', 'k1z1', 'kh82', 'kh11', 'k2z', 'kj41'}
+ 14]
+[845 'L'
+ {'k64', 'k412', 'k1j1', 'knj', 'k69', 'kf71', 'kb42', 'kwz', 'k38', 'kp2'}
+ 10]
+[844 'L'
+ {'kc82', 'k5l1', 'kxk1', 'k031', 'km7', 'kkc1', 'k4r1', 'k5v', 'k161', 'k651'}
+ 10]
+[843 'L' {'k511', 'k7q1', 'k4r', 'kpb2', 'k7w1', 'kps1'} 6]
+[855 'L'
+ {'kz21', 'kcj1', 'kzk1', 'k1v1', 'kk61', 'kw', 'k4z1', 'k0k1', 'kqw1', 'k5w1', 'kh42', 'kjw1'}
+ 12]
+[315 'L' {'k0c', 'km02', 'kv92', 'kv4', 'k861', 'k78', 'k8m'} 7]
+[830 'L'
+ {'k0r', 'klr1', 'k1j1', 'k011', 'kww', 'kw', 'kz9', 'kx6', 'kkk', 'k78', 'kw11', 'ksv1'}
+ 12]
+[377 'L' {'kgb', 'kj8', 'kbk1', 'kfz1', 'k7p1', 'kw52', 'kbv1'} 7]
+[839 'L' {'k1s', 'k9x1', 'km32', 'kkc1', 'k3c1', 'kq01', 'khc1', 'kc11'} 8]
+[81 'L'
+ {'kc51', 'kn12', 'kx71', 'kqb2', 'ksw1', 'kh1', 'k532', 'kzz1', 'kpd', 'kb22', 'kh8', 'kqf'}
+ 12]
+[809 'L' {'krc1', 'kwd', 'k1w', 'kmp1', 'k512', 'kh61', 'k732'} 7]
+[836 'L'
+ {'kn51', 'k5j', 'krm', 'klm', 'kqd', 'kl01', 'k242', 'k4f1', 'kz42', 'kcv1', 'k042', 'krr', 'kmf', 'k452'}
+ 14]
+[83 'L'
+ {'kls1', 'kgn', 'kgr', 'kcl', 'klr1', 'krh', 'kjr1', 'kq3', 'kjw1', 'k5f1', 'k191', 'kmn1', 'ksm', 'k032'}
+ 14]
+[75 'L' {'k6r1', 'kqs', 'k0k1', 'kg32', 'k6k', 'kr42', 'khv'} 7]
+[379 'L' {'kr82', 'k9c2', 'kh71', 'knx', 'k5r', 'kmf'} 6]
+[380 'L' {'k2q', 'krc1', 'k1v1', 'k4l', 'k111', 'k6g', 'khj1'} 7]
+[74 'L' {'kqh', 'khc1', 'kpn1', 'kj41', 'kv', 'khs1'} 6]
+[381 'L'
+ {'kss', 'kcl', 'kk61', 'kf9', 'k38', 'k54', 'k8x1', 'kz42', 'kgv', 'kwf', 'k2x1', 'kv8', 'k561'}
+ 13]
+[831 'L'
+ {'kgk1', 'kb7', 'krr', 'k7k1', 'kzl', 'kd32', 'k4w', 'kpr', 'km81', 'kqz1'}
+ 10]
+[378 'L' {'kgk1', 'kkc2', 'k19', 'kpj1', 'kjs1', 'kpc1', 'kv81'} 7]
+[473 'L' {'kr51', 'k3q1', 'k572', 'k4d2', 'k9c', 'kmj1', 'k232', 'k9z1'} 8]
+[387 'L'
+ {'k441', 'kj51', 'kdz1', 'kqp1', 'kl3', 'k482', 'klb2', 'krk', 'kf42', 'kk4', 'k291', 'kh42', 'k9q1'}
+ 13]
+[776 'L' {'kxd', 'kmg', 'k2k', 'kv4', 'kgh', 'kpc1', 'k7d1', 'k8f'} 8]
+[112 'L' {'k911', 'kzk1', 'khc1', 'kkn', 'kg7', 'kxf'} 6]
+[113 'L'
+ {'kc61', 'kkd', 'kq81', 'k8n', 'ksv1', 'k9j1', 'kb62', 'kl', 'k8h', 'k9d1', 'kld', 'kl6', 'k691', 'ksq'}
+ 14]
+[772 'L' {'kn51', 'ksw1', 'kk22', 'kj52', 'kq52', 'k8z1'} 6]
+[771 'L'
+ {'kfd', 'kx01', 'k762', 'krk', 'kq21', 'kx31', 'k4d2', 'kks1', 'k461', 'k9b2', 'k0d1', 'kn81', 'kw11', 'kkz1'}
+ 14]
+[305 'L'
+ {'kb12', 'kdb2', 'kzj', 'kh9', 'k7v', 'kn4', 'k211', 'ksw', 'kk91', 'ksq1', 'kf12'}
+ 11]
+[396 'L'
+ {'k6k1', 'klb1', 'k4k1', 'k69', 'kf42', 'k592', 'kn3', 'kh8', 'kn81'} 9]
+[768 'L'
+ {'k5p1', 'k9k', 'k6d2', 'kzb2', 'k991', 'k5f1', 'kmj1', 'kjb1', 'k4x', 'khm1', 'ksc', 'k152'}
+ 12]
+[767 'L' {'kzk1', 'kz81', 'kld1', 'k5c2', 'ksx', 'k86'} 6]
+[766 'L' {'kks1', 'kk31', 'khs', 'kq91', 'km81'} 5]
+[397 'L' {'k5v1', 'k38', 'k2j1', 'kn21', 'k7c2', 'k452'} 6]
+[764 'L' {'kl31', 'kcj1', 'khh1', 'kqv', 'kf52', 'kqc'} 6]
+[303 'L' {'kmg', 'kbj', 'k361', 'kpr1', 'k9c2', 'kw7', 'ksq'} 7]
+[761 'L'
+ {'kjr', 'kgc', 'kcl', 'k3m', 'kg5', 'kmv', 'kfc2', 'k3p1', 'kh61', 'kmj1', 'kxg', 'kds1', 'kkj', 'kz02'}
+ 14]
+[400 'L'
+ {'kj91', 'kww', 'kbw', 'km52', 'kzm1', 'kn4', 'kw52', 'k6q1', 'kkh1'} 9]
+[120 'L'
+ {'kr1', 'k6k1', 'krh', 'kzm1', 'kkc1', 'knf', 'km9', 'k38', 'kzg', 'k3x1'}
+ 10]
+[121 'L' {'kd2', 'kpp1', 'kr3', 'k0f1', 'kq01', 'k3b1', 'kh8'} 7]
+[757 'L'
+ {'k7g', 'kkd', 'kj8', 'krk', 'kwz', 'k161', 'k6l', 'kvb1', 'km91', 'k512', 'k2n', 'kh32'}
+ 12]
+[756 'L'
+ {'kj91', 'k2d2', 'kc5', 'k7j1', 'kks1', 'kns', 'k7c2', 'kkb1', 'kh8', 'k33', 'kk51', 'kmf'}
+ 12]
+[755 'L'
+ {'kdg1', 'k781', 'k7d', 'k6f1', 'k6r1', 'kp62', 'k4r', 'k5f1', 'kbj1', 'kvs1', 'kk72', 'kkz1'}
+ 12]
+[754 'L'
+ {'k75', 'k471', 'k692', 'khc1', 'kbm', 'kk', 'k12', 'k002', 'kzh'} 9]
+[122 'L' {'kf1', 'kzk1', 'k3q', 'kpz'} 4]
+[302 'L'
+ {'knj', 'k131', 'kbn1', 'kdp1', 'k6r', 'khn', 'kkf', 'k0j1', 'kd1', 'k232', 'k2p', 'k641'}
+ 12]
+[301 'L'
+ {'kl31', 'k141', 'kcw1', 'kms', 'k971', 'kkc2', 'kss1', 'kx02', 'kdg', 'k042', 'kkb2', 'k3k', 'kxl1'}
+ 13]
+[125 'L'
+ {'kx71', 'kx7', 'krk', 'k2m', 'kc52', 'kfz1', 'k8p', 'k692', 'k2m1', 'kx', 'kdq1', 'kq91', 'kh42', 'k7n1'}
+ 14]
+[300 'L'
+ {'kc51', 'k6m', 'knk', 'kkf', 'k471', 'khc', 'k692', 'ksh1', 'ksk', 'kd41', 'k311', 'kcf', 'khr'}
+ 13]
+[748 'L' {'kbw', 'k621', 'k172', 'k73', 'k8v'} 5]
+[747 'L' {'kc5', 'k0j1', 'kpb', 'kcv1', 'kpc', 'kl21'} 6]
+[775 'L'
+ {'k621', 'kj61', 'kb2', 'kpq1', 'knf', 'kq3', 'k6r1', 'k4d1', 'kk9', 'krj', 'ksq1', 'kh61', 'ks62'}
+ 13]
+[777 'L'
+ {'k9g1', 'kjl', 'kv02', 'kkd', 'kbj', 'k5p1', 'kl72', 'kq21', 'klm', 'k27', 'k58', 'kvr'}
+ 12]
+[807 'L' {'kg6', 'kww', 'kms', 'khc1', 'kd62', 'kxg', 'kpc'} 7]
+[778 'L' {'k8w', 'ksj1', 'kf42', 'k63', 'k4h', 'kf22', 'khr'} 7]
+[309 'L' {'k2z1', 'kz1', 'kjz', 'kpc1', 'kbv', 'kd22', 'kvs1', 'k221'} 8]
+[98 'L'
+ {'kvk', 'k09', 'krb', 'k1s', 'krk', 'kh5', 'kkk1', 'k491', 'k8k1', 'kz21', 'kc2'}
+ 11]
+[804 'L' {'ksp', 'k1l1', 'k6r1', 'khc', 'kpz', 'knc2', 'kss1', 'kcc'} 8]
+[803 'L'
+ {'kg62', 'k4x1', 'k302', 'kb02', 'k4d2', 'kjn1', 'kqv', 'kqc', 'kj82', 'kh42', 'k711', 'khb1'}
+ 12]
+[802 'L'
+ {'kz22', 'kzk1', 'kgk1', 'k471', 'kfz1', 'kgc2', 'k7k1', 'kk31', 'k0l1', 'kfc2', 'k082', 'k351', 'k7b2', 'ksg'}
+ 14]
+[865 'L' {'kgc', 'krk', 'k9g', 'k242', 'k181', 'k49', 'kss1', 'k3d', 'k8'}
+ 9]
+[389 'L'
+ {'k832', 'kfc1', 'k3r1', 'kl3', 'kd32', 'k5g', 'kqs', 'k1s1', 'kk51', 'kmf', 'k1g'}
+ 11]
+[100 'L' {'kvk', 'kdd1', 'kxp1', 'kq91', 'kz42', 'kj41', 'kv', 'kcf'} 8]
+[799 'L'
+ {'k14', 'k4c2', 'kvx1', 'k511', 'kz91', 'k751', 'k6j1', 'k4m1', 'k4w', 'kld1', 'kc6', 'ks31', 'kcc'}
+ 13]
+[308 'L' {'kw92', 'kfb2', 'k2r1', 'k9w', 'k561'} 5]
+[391 'L'
+ {'kdg1', 'kdc2', 'kbn1', 'kmh1', 'k74', 'kv32', 'kxg', 'k3g', 'k7c2', 'khb1'}
+ 10]
+[103 'L'
+ {'kj8', 'kl72', 'kxf1', 'kkk1', 'kzs', 'kd62', 'kvk1', 'kmc1', 'kkb1', 'kq52', 'kcv1', 'k55'}
+ 12]
+[393 'L'
+ {'kl4', 'krk', 'khc', 'kpb', 'kq52', 'kd41', 'k9d1', 'k3g', 'k2x1', 'klz1'}
+ 10]
+[106 'L'
+ {'kf01', 'kbd1', 'krk', 'kh52', 'kh22', 'k5v1', 'k672', 'kk6', 'khz', 'k56', 'k9z1'}
+ 11]
+[792 'L'
+ {'kpp', 'kx72', 'k6c', 'kkc1', 'k202', 'kpr', 'kgn1', 'kb8', 'kd', 'kh42', 'klz1', 'kvf'}
+ 12]
+[791 'L' {'kb01', 'kq01', 'k5v1', 'k9c', 'k3w', 'kvb1', 'kkz1'} 7]
+[790 'L' {'k0f', 'k622', 'kxf1', 'k6d', 'kkl', 'kc11', 'kd51'} 7]
+[107 'L' {'knm', 'kf22', 'ksr1', 'kgq1', 'kl6', 'k9h'} 6]
+[787 'L' {'kf01', 'kz7', 'krx1', 'k0g1', 'kmj1', 'kk8', 'kh42', 'kw11'} 8]
+[786 'L'
+ {'kv02', 'km52', 'kv1', 'k3c1', 'k181', 'k5f1', 'kp21', 'k2r', 'kx1'} 9]
+[785 'L' {'k572', 'kzk1', 'kzr', 'k0f1', 'kd71', 'k55', 'kz02'} 7]
+[784 'L' {'kpk1', 'k74', 'kbm', 'k332', 'km81'} 5]
+[109 'L'
+ {'k0h1', 'kw81', 'kl2', 'k881', 'kwb', 'k3m', 'kfk1', 'k242', 'kpr1', 'kf2', 'kpn1', 'kq91', 'k2s', 'kzn'}
+ 14]
+[110 'L' {'k481', 'kd7', 'k021', 'kqm1', 'k7j1', 'kfc2'} 6]
+[111 'L'
+ {'kqk1', 'kxz1', 'kcl', 'k3p', 'k2m', 'kl9', 'kqc', 'k991', 'k9w1', 'kg7'}
+ 10]
+[780 'L' {'k481', 'k681', 'kn3', 'k7', 'k4x'} 5]
+[779 'L'
+ {'khd', 'kr1', 'kk22', 'kpg1', 'k1s', 'kkc1', 'ksr', 'kd51', 'k512', 'kc42', 'k162', 'kk', 'kwv1', 'k212'}
+ 14]
+[864 'L'
+ {'kgc', 'k881', 'kpg1', 'knb', 'kms1', 'k3g1', 'kd92', 'k311', 'kjs1', 'kp21', 'k3k', 'kqx1'}
+ 12]
+[370 'L'
+ {'kgc', 'klz1', 'kgk1', 'kb02', 'k992', 'kgl1', 'k74', 'kxn1', 'kvs1', 'k291', 'km51', 'kkm'}
+ 12]
+[70 'L'
+ {'kvk', 'kpc', 'k34', 'kgj', 'kkk1', 'k882', 'k5r1', 'k19', 'k4q1', 'kjs1', 'kg71'}
+ 11]
+[951 'L'
+ {'k6k', 'k6d2', 'krk', 'km02', 'kp6', 'k1c1', 'kqc', 'k2m1', 'k7n1', 'k8h1', 'k561'}
+ 11]
+[964 'L'
+ {'k481', 'ks51', 'kr82', 'krk', 'klm', 'k8x', 'k4n1', 'k8w', 'kgh1', 'k7d1', 'kj41', 'k8j', 'kzn'}
+ 13]
+[963 'L'
+ {'k412', 'kbj', 'kjp', 'k9c1', 'k6r1', 'kkc', 'k9r1', 'kk', 'k162', 'kk91', 'kx41', 'k601'}
+ 12]
+[962 'L'
+ {'k481', 'kls1', 'kk11', 'k34', 'kzk1', 'krk', 'k471', 'k62', 'kjk', 'kw31', 'k672', 'kq52', 'kk62', 'kkv1'}
+ 14]
+[328 'L'
+ {'kdg1', 'klz1', 'k5j1', 'khv', 'k131', 'krf1', 'k7k1', 'k2x1', 'kg62'} 9]
+[21 'L'
+ {'kfl1', 'k4j1', 'kgb1', 'k561', 'k742', 'k0v1', 'kv9', 'k332', 'k16', 'kgw1', 'klz1'}
+ 11]
+[959 'L' {'k8n', 'k6w1', 'kzw', 'kv32', 'ksw'} 5]
+[22 'L'
+ {'kb02', 'kz02', 'kdn1', 'knh1', 'kq3', 'k471', 'kv71', 'kp82', 'ksq1', 'kh61', 'k402', 'kr42', 'kb4', 'khr1'}
+ 14]
+[23 'L'
+ {'kk11', 'kk22', 'k1s', 'kzk1', 'k74', 'kf2', 'k1c', 'k952', 'k0d2', 'k402', 'kkm', 'kg22'}
+ 12]
+[24 'L' {'kx7', 'kp62', 'k13', 'kxg', 'kq91', 'k691', 'k711', 'kkj'} 8]
+[955 'L' {'khh1', 'k0j1', 'kn3', 'k2c1', 'kv8', 'k012'} 6]
+[954 'L'
+ {'kg42', 'kcg1', 'k4x1', 'km31', 'kkg', 'kjj1', 'k7p1', 'k3b1', 'krw', 'knr', 'kx91', 'k291', 'krz1'}
+ 13]
+[25 'L'
+ {'kr51', 'kj91', 'k1v1', 'k2m', 'kw', 'kf42', 'k661', 'knn', 'kvb1', 'kvf'}
+ 10]
+[346 'L' {'kl9', 'kl91', 'klm', 'k7p1', 'kpc1', 'kkh1', 'ksx1'} 7]
+[950 'L'
+ {'k5j1', 'k9x1', 'kx61', 'kdn1', 'k1b', 'k74', 'k5v1', 'k38', 'k631', 'kv52', 'kc72', 'k4v1', 'k55'}
+ 13]
+[966 'L' {'k0c', 'k511', 'kpk1', 'kfh', 'kkx1', 'kvr'} 6]
+[347 'L'
+ {'kjq', 'kvc1', 'kkc1', 'kdn', 'kh5', 'kv7', 'kf2', 'k6k', 'kz21', 'kfj'}
+ 10]
+[948 'L' {'kgn', 'kkc1', 'k071', 'k1d1', 'ksx1'} 5]
+[28 'L'
+ {'k5w1', 'kbn1', 'k6c', 'k6r', 'kk31', 'km9', 'kf2', 'kx2', 'kdp', 'kkg1', 'kr02', 'kzg', 'k4v1', 'krn'}
+ 14]
+[29 'L' {'kr21', 'kbb2', 'kh1', 'ks92', 'kxf1', 'kgb2', 'k8f1', 'kdn'} 8]
+[348 'L'
+ {'kbj', 'kdc', 'kqp1', 'k7d', 'kmn', 'k0j1', 'kqc', 'k3z', 'k1d1', 'kg71', 'kv9', 'k9h'}
+ 12]
+[944 'L'
+ {'kls1', 'kcq1', 'kcw1', 'krm', 'kk92', 'kfw', 'kmj1', 'k952', 'kz21', 'khr1'}
+ 10]
+[349 'L'
+ {'kzm', 'kwn1', 'krk', 'kv', 'k3c1', 'kq7', 'kvr', 'kh4', 'kk81', 'k3v1', 'k1g', 'k452'}
+ 12]
+[942 'L'
+ {'kls1', 'k95', 'kjd', 'kb12', 'k6k', 'kd21', 'knl', 'kk61', 'kpz', 'kb41', 'kn82', 'k2x1', 'k2'}
+ 13]
+[33 'L' {'kvk', 'kc31', 'kw22', 'kv9', 'k96'} 5]
+[939 'L'
+ {'k621', 'kvc1', 'kj', 'kdf1', 'k3b1', 'k5f1', 'k662', 'kr02', 'k7g1', 'k771', 'kkb2', 'k33', 'ksq'}
+ 13]
+[938 'L' {'kvm1', 'k3j1', 'k3w1', 'kfc2', 'k3d', 'kg7'} 6]
+[34 'L'
+ {'kvc2', 'k9s1', 'k7q1', 'kz91', 'kr2', 'k882', 'k9d1', 'kv32', 'k351', 'kbv', 'k6k', 'knr'}
+ 12]
+[936 'L'
+ {'knh', 'kb02', 'kkc1', 'k1w', 'kvc1', 'kww1', 'kqc', 'kwk', 'kcv1', 'k13', 'kv1'}
+ 11]
+[19 'L'
+ {'kdg1', 'kd7', 'kc01', 'k7z1', 'khn', 'knb2', 'k1c', 'k4w', 'kk6', 'kk', 'kv1', 'kqb1', 'khb1'}
+ 13]
+[329 'L'
+ {'kc51', 'k252', 'kjr1', 'k2', 'k1j1', 'khf1', 'kx4', 'kv32', 'kkb2', 'k9w1', 'kdn', 'kfj', 'k82'}
+ 13]
+[35 'L'
+ {'k34', 'km02', 'k6r1', 'k3b1', 'kd3', 'k35', 'kvv', 'km81', 'k0b1', 'kvr', 'k3k'}
+ 11]
+[340 'L' {'kwn1', 'kv61', 'kqg1', 'ksj1', 'k312', 'kf22'} 6]
+[998 'L'
+ {'kpl', 'kdk', 'k6c', 'kvc1', 'kjj1', 'k24', 'kfc2', 'k3p1', 'k42', 'k311'}
+ 10]
+[997 'L' {'k881', 'k3b2', 'k6c', 'khh', 'kpn1', 'k311', 'k19', 'k452'} 8]
+[333 'L' {'kz22', 'k0k1', 'kgb2', 'k0b1', 'k2'} 5]
+[3 'L'
+ {'kwd1', 'k0c', 'k21', 'kg02', 'kqp1', 'kl3', 'kms', 'k351', 'kqz1', 'k8b1'}
+ 10]
+[994 'L'
+ {'k5p1', 'k372', 'k3q', 'kw6', 'khh1', 'k1b', 'kl51', 'kdp', 'kdg', 'k2c', 'kvb2', 'kz21', 'k1d2'}
+ 13]
+[4 'L'
+ {'k4k1', 'k6r1', 'ksj1', 'k2m1', 'kpb', 'krn', 'kz41', 'k892', 'kk', 'kld1', 'kv81', 'k9q1'}
+ 12]
+[992 'L'
+ {'kqp1', 'kqs', 'khc', 'kk01', 'kpb2', 'kpr1', 'kfc2', 'kp41', 'kpc', 'kk82', 'kqv1'}
+ 11]
+[5 'L'
+ {'kbn1', 'kkc1', 'k822', 'kn3', 'k51', 'k771', 'k882', 'k3b1', 'k071', 'k7d1', 'k332', 'kfg1'}
+ 12]
+[332 'L' {'kf42', 'k8w', 'k861', 'k4w', 'k392', 'ks2', 'k291'} 7]
+[989 'L' {'k462', 'kgk1', 'kb91', 'k4m1', 'kjb2'} 5]
+[7 'L' {'k5p1', 'kwg1', 'kjp', 'kkc', 'k2m1', 'kdm1', 'kk6', 'k2x1'} 8]
+[987 'L'
+ {'kwl', 'kj5', 'khk1', 'kgn', 'k4n', 'kcv1', 'k8k1', 'kr02', 'k102', 'khr'}
+ 10]
+[986 'L'
+ {'kgn', 'kdd1', 'k3q1', 'k69', 'kzs1', 'k2k', 'k692', 'kq9', 'k7p1', 'kbx1', 'kd'}
+ 11]
+[9 'L'
+ {'k762', 'kr42', 'kd42', 'k471', 'kcc', 'kzw', 'kqg', 'ks12', 'kj82', 'k3x', 'k391'}
+ 11]
+[17 'L' {'kdz1', 'kqp1', 'k2m1', 'kpd', 'kcx'} 5]
+[983 'L' {'k3n', 'knj', 'kp81', 'k6h', 'kgl', 'k7l1', 'kvr'} 7]
+[11 'L'
+ {'kwn1', 'knl', 'k991', 'k0k1', 'kkc2', 'kkn', 'k4q1', 'kkx1', 'kh61', 'kk', 'kp72', 'k7n1'}
+ 12]
+[342 'L' {'kgk1', 'kh1', 'k3d1', 'k3w', 'k39', 'k182', 'kd'} 7]
+[13 'L'
+ {'kk11', 'k5k1', 'km7', 'k622', 'knf1', 'ksr1', 'k0n1', 'kb62', 'kkx', 'kh61', 'k4k', 'kg62', 'k86'}
+ 13]
+[978 'L'
+ {'kll1', 'kpg1', 'k031', 'kd62', 'kbz1', 'kf4', 'khf', 'kfk', 'k86'} 9]
+[14 'L' {'k1n1', 'k622', 'khc1', 'kfj', 'k9z1'} 5]
+[976 'L' {'k2z1', 'kd51', 'k66', 'k6n1', 'khl1', 'k2'} 6]
+[975 'L' {'k4g1', 'k1n1', 'km7', 'ksk', 'k861', 'km81', 'kk4', 'kdg'} 8]
+[16 'L' {'kf01', 'kd8', 'kvh', 'kr2', 'k8b1'} 5]
+[972 'L'
+ {'kd7', 'kjr1', 'k1j1', 'kcm1', 'kjk', 'kjj1', 'k4f1', 'kv5', 'khx', 'kfd1', 'k6m1', 'kzn'}
+ 12]
+[971 'L' {'k921', 'krk', 'k7d', 'kd62', 'kkb2'} 5]
+[970 'L'
+ {'kdd1', 'kx71', 'kjr1', 'kms', 'krz', 'k3j1', 'k7x', 'kj92', 'kp41', 'kqz'}
+ 10]
+[969 'L'
+ {'kgx1', 'k4k1', 'k471', 'k361', 'khn', 'k622', 'kz91', 'kf71', 'k6c', 'kh02', 'k651', 'kpw', 'k7h', 'kf22'}
+ 14]
+[935 'L'
+ {'k141', 'kk22', 'k8j1', 'kwz', 'kqv1', 'k861', 'k7v1', 'kg7', 'kvz'} 9]
+[933 'L' {'kq81', 'kng', 'k3p', 'kgk1', 'k7v', 'k0w1', 'kw11', 'kkz1'} 8]
+[867 'L'
+ {'kdg1', 'k8n', 'k041', 'k4g1', 'k9s1', 'kpg1', 'k67', 'k0l1', 'k221', 'kz81', 'kld1', 'klz1', 'k8l1'}
+ 13]
+[60 'L'
+ {'kgp1', 'kv02', 'kh81', 'k241', 'khn', 'ks12', 'km2', 'kr42', 'kl82'} 9]
+[361 'L'
+ {'k9x1', 'kh12', 'kw22', 'kz91', 'kf42', 'kz82', 'k9j1', 'kcn1', 'k63', 'kl22'}
+ 10]
+[362 'L'
+ {'k5q1', 'kp92', 'kf92', 'kmb1', 'kc11', 'knq', 'k451', 'kxm1', 'kd'} 9]
+[896 'L'
+ {'kd7', 'kr5', 'kpx', 'kn51', 'kqc', 'kpr1', 'kr02', 'k4g', 'kv1', 'k3v', 'kdg'}
+ 11]
+[895 'L' {'kn12', 'ks8', 'k0l1', 'kmj1', 'k35', 'k6z1', 'k212'} 7]
+[56 'L' {'kdg1', 'k8k1', 'kp12', 'ksq1'} 4]
+[893 'L' {'kgp1', 'kv6', 'k011', 'kp12', 'kv7', 'k692', 'k6k'} 7]
+[323 'L' {'kjk1', 'kkc', 'ksw', 'kns1', 'krq1', 'kz21'} 6]
+[364 'L'
+ {'k5q1', 'kr51', 'kq81', 'kc21', 'knj', 'k4d2', 'kvf1', 'k1r', 'kqb2', 'kz21', 'kqf', 'k221'}
+ 12]
+[890 'L'
+ {'kbb2', 'kzp1', 'kvc1', 'k8l', 'kk61', 'kxj1', 'kk7', 'kq31', 'k4r', 'kmq1', 'kq91', 'kvr', 'kbh', 'k4s1'}
+ 14]
+[889 'L'
+ {'k0c', 'kdd1', 'kh2', 'k2k', 'knf', 'kdn1', 'kqc', 'k5v1', 'km9', 'kbm', 'ksw', 'kkx1', 'kk82'}
+ 13]
+[888 'L'
+ {'knk', 'knm', 'k511', 'kdp1', 'kxj1', 'krx', 'k4q1', 'k13', 'kk82', 'kx11'}
+ 10]
+[887 'L'
+ {'kf01', 'kr5', 'k3m', 'k43', 'kk21', 'k8k1', 'k1r1', 'kk82', 'k941', 'klf1', 'k8l1', 'kmk'}
+ 12]
+[886 'L'
+ {'kfr1', 'k041', 'k4x1', 'k131', 'kcm1', 'kb7', 'kdr', 'khg1', 'kj82'} 9]
+[62 'L' {'kr5', 'kqb', 'kxh', 'k5f', 'kw52', 'kk', 'kp32', 'k8b1'} 8]
+[900 'L'
+ {'kw61', 'ksp', 'kks1', 'kw91', 'kvx', 'kjk', 'kdp', 'k5r1', 'k852', 'k7k', 'kkj'}
+ 11]
+[63 'L' {'k4f', 'k1l1', 'kn92', 'kl72', 'kkf', 'kkc1', 'k0s1', 'k9d1'} 8]
+[880 'L'
+ {'kjr1', 'k6h', 'kj41', 'k2k', 'kxw', 'k592', 'k2m1', 'kpb', 'k4z1', 'k3w', 'kh61', 'kd01'}
+ 12]
+[367 'L'
+ {'kr1', 'knj', 'kb01', 'k6c', 'kdp1', 'kzr', 'k93', 'k2m1', 'k861', 'kpn1', 'k8j', 'ksm', 'kx5'}
+ 13]
+[878 'L'
+ {'kc82', 'k2b1', 'kjr1', 'k1v1', 'k532', 'k4m', 'kk', 'kr42', 'k221', 'khr'}
+ 10]
+[877 'L'
+ {'kxj', 'kqp1', 'k8l', 'k001', 'knc2', 'kdk1', 'kx51', 'kk72', 'k26', 'kn81', 'kld1', 'k0g', 'kfg1'}
+ 13]
+[320 'L'
+ {'kdg1', 'kx71', 'kn6', 'klr1', 'kb1', 'k161', 'kn01', 'k0k1', 'kss1', 'kh62', 'k19', 'kbc1', 'k3k'}
+ 13]
+[875 'L' {'kqk1', 'k511', 'kfb1', 'kwz', 'kbm', 'kw42', 'kjb', 'ksz'} 8]
+[874 'L' {'kwx1', 'kwz', 'k4r', 'k0g1', 'k91', 'kq52', 'km81'} 7]
+[369 'L' {'kzk1', 'km3', 'kf6', 'krx', 'k9c', 'kdg', 'k541', 'khr', 'k82'}
+ 9]
+[745 'L'
+ {'kvk', 'k5p1', 'kdd', 'krk', 'khc', 'kvb', 'kd51', 'kvb1', 'kpc1', 'khc2', 'kdz', 'kz92', 'kg62', 'kkm'}
+ 14]
+[319 'L' {'k2', 'kbx', 'kkg1', 'k6c1', 'k33', 'khf', 'kvf', 'k452'} 8]
+[870 'L'
+ {'kqk1', 'k701', 'k2w', 'k4g1', 'krz', 'kbp1', 'k4m1', 'k76', 'kxq', 'kx8'}
+ 10]
+[869 'L' {'krm', 'kz82', 'k311', 'kz61', 'kcc2', 'k8b1', 'kmk'} 7]
+[899 'L'
+ {'kgp1', 'k3p', 'k2m', 'kks1', 'kkg', 'k4r', 'kbm', 'kzg', 'k7c2', 'kvh', 'kvr', 'kkr1'}
+ 12]
+[360 'L'
+ {'k572', 'kl2', 'khv1', 'knf', 'k001', 'kk2', 'k9c', 'k322', 'k63', 'k501', 'k7c2', 'kd'}
+ 12]
+[351 'L' {'k1w', 'kk21', 'k862', 'knz1', 'k9h', 'kzn'} 6]
+[43 'L' {'kd7', 'kzk1', 'krs1', 'k9z1', 'kkr1'} 5]
+[931 'L' {'kqq', 'kf3', 'kjx1', 'k7d', 'kkc1', 'knv', 'kz61', 'kqf'} 8]
+[352 'L'
+ {'kd7', 'kkd', 'kgc', 'k3r1', 'k9x1', 'k8l', 'kh1', 'kk42', 'kz42', 'k3p1'}
+ 10]
+[38 'L'
+ {'kdb2', 'khp1', 'kdp1', 'kf32', 'k3c1', 'k2k', 'ksg', 'knl', 'kdr', 'kjs1', 'kv9', 'k7w', 'kb5'}
+ 13]
+[39 'L'
+ {'k401', 'kvc2', 'kdq', 'kgk1', 'kh1', 'k4w1', 'kv1', 'krq1', 'kqz'} 9]
+[326 'L' {'k792', 'kfr1', 'klr1', 'k43', 'kmn', 'kvb1'} 6]
+[926 'L'
+ {'kgr', 'k2k', 'khc1', 'kkg1', 'kk6', 'kf11', 'k2k1', 'k1f1', 'k002', 'k391', 'k86'}
+ 11]
+[925 'L' {'khk1', 'kz22', 'kkk1', 'kck', 'kh11', 'kg7', 'kp3', 'kkh1'} 8]
+[924 'L'
+ {'kk11', 'k0c', 'klj', 'kdc2', 'k361', 'kk21', 'kcb1', 'kp41', 'k39', 'kxg', 'krv', 'ksw', 'kb5'}
+ 13]
+[923 'L'
+ {'kp22', 'k462', 'kl72', 'kqc', 'kc11', 'ksw', 'kzg', 'kb52', 'kz21', 'kv', 'kf22', 'kzn'}
+ 12]
+[922 'L'
+ {'knj', 'khh1', 'k242', 'kpb', 'k7p1', 'ksm1', 'k3w', 'kf91', 'klz1'} 9]
+[921 'L'
+ {'kd31', 'kkf', 'k1w', 'kjj1', 'kpn1', 'k7n1', 'kh61', 'k351', 'kr02', 'k212'}
+ 10]
+[41 'L'
+ {'kqq', 'k422', 'krk', 'k531', 'kqq1', 'kz91', 'kq31', 'k1g', 'kgb2', 'kr92'}
+ 10]
+[42 'L' {'kp7', 'khc', 'k2f', 'k88', 'kj9'} 5]
+[917 'L' {'kpl', 'kwx1', 'kn4', 'k66', 'kcn', 'k5w1', 'kkr1'} 7]
+[358 'L'
+ {'kgp1', 'kbd1', 'k34', 'kc21', 'km02', 'kv12', 'k0s', 'kg72', 'k561'} 9]
+[354 'L' {'kqq', 'kwj', 'khn', 'kq42', 'k7l1', 'k291'} 6]
+[45 'L' {'kls1', 'kgc', 'kqb2', 'k0k1', 'khg1', 'kzc2', 'kfj'} 7]
+[914 'L' {'kc51', 'kv72', 'kgf1', 'k971', 'ksw', 'kn81'} 6]
+[913 'L'
+ {'kr1', 'kww', 'kpc2', 'kb02', 'kb7', 'kn61', 'k161', 'ks02', 'knc2', 'kgq1', 'kqs', 'kxv1', 'k3k'}
+ 13]
+[325 'L' {'k762', 'k3r1', 'kb7', 'knf', 'kqr', 'k221'} 6]
+[356 'L' {'kq81', 'kkr', 'khn', 'k7v', 'kp41', 'kwg1', 'kqv1'} 7]
+[48 'L'
+ {'kd7', 'kr82', 'kk22', 'kpg1', 'klm', 'k3c1', 'kwz', 'kk9', 'kb9', 'kmd', 'k78'}
+ 11]
+[357 'L' {'kr41', 'k9x1', 'k1w1', 'ksf1', 'kh42', 'knz1'} 6]
+[908 'L' {'k68', 'kp62', 'k74', 'k3w', 'k7g1', 'kv32', 'kx41', 'k55'} 8]
+[907 'L'
+ {'kbz', 'k921', 'kgj', 'khp1', 'kfp', 'kgb1', 'kvs1', 'kf2', 'kfj', 'k3x1', 'k55'}
+ 11]
+[906 'L'
+ {'k621', 'kwp', 'k3c1', 'kk21', 'k5m1', 'kwz', 'k4d1', 'k8k1', 'k232'} 9]
+[905 'L'
+ {'kqq', 'k6d2', 'klz', 'kl72', 'km7', 'ksr1', 'k251', 'kr01', 'kpd', 'kjc', 'k6b'}
+ 11]
+[50 'L'
+ {'kgn', 'kr11', 'kbd1', 'kr1', 'kl2', 'k682', 'k6r1', 'kxf1', 'k31', 'kpc1', 'k3g', 'krr', 'k4b2'}
+ 13]
+[746 'L'
+ {'kf01', 'k21', 'kfr1', 'k342', 'kb7', 'kpb2', 'km22', 'kf7', 'k85', 'kk6', 'khz', 'kbv1', 'k3k'}
+ 13]
+[299 'L'
+ {'kwh1', 'kqk', 'kc5', 'k6c', 'khh1', 'k0l1', 'k0p1', 'k55', 'kcc'} 9]
+[127 'L'
+ {'kgj', 'kzb', 'kvq1', 'khh1', 'kjj1', 'k0g1', 'k2m1', 'km9', 'kw52', 'km1', 'k0b', 'kc92', 'k3g', 'kg'}
+ 14]
+[561 'L'
+ {'khk1', 'k21', 'kmm', 'k262', 'k3q1', 'k881', 'khn', 'kf42', 'k882', 'k4q1', 'kbp', 'kcr1', 'kcc'}
+ 13]
+[574 'L' {'kk71', 'kww', 'kpq1', 'kz61', 'kpc', 'km42', 'kbs1'} 7]
+[213 'L' {'kpg1', 'k6f', 'kjk', 'k8w', 'kcv1', 'k76', 'k1m1', 'k8b1'} 8]
+[448 'L' {'kfc1', 'k6b1', 'kn81', 'kl6', 'krd1'} 5]
+[275 'L'
+ {'khk1', 'kqq', 'kn9', 'kjr1', 'k3m', 'kjk', 'k242', 'k882', 'kjj', 'k9d1', 'kjs1', 'kzg', 'kvr'}
+ 13]
+[570 'L'
+ {'kr51', 'km02', 'kfb1', 'kcf1', 'kqc', 'k2m1', 'k19', 'kkk', 'kxh1', 'kzh1'}
+ 10]
+[569 'L' {'kg1', 'k64', 'kkk1', 'kzw', 'kmj1'} 5]
+[216 'L'
+ {'k762', 'kr1', 'kjx1', 'k1w', 'kv7', 'kw51', 'k7c2', 'kn4', 'kd41', 'k0k1', 'kzv1', 'kg7', 'kkm'}
+ 13]
+[567 'L'
+ {'k6p1', 'kzk1', 'k1s', 'k1q1', 'kw', 'ksr1', 'kz9', 'ks4', 'ksk', 'kf2', 'kh61', 'k931', 'kv1', 'kl6'}
+ 14]
+[217 'L'
+ {'k47', 'kdn1', 'k2m1', 'kk31', 'km1', 'kd92', 'k5f1', 'k13', 'ksb', 'kp91', 'kr42', 'kqz1', 'kqf', 'k1l'}
+ 14]
+[565 'L' {'k1q', 'k882', 'k5f1', 'k1', 'kpd1', 'kz51', 'k012', 'k7n1'} 8]
+[450 'L'
+ {'k0x1', 'kn12', 'k3q1', 'kzk1', 'k062', 'khh1', 'k532', 'kmn', 'k181', 'kpd', 'khz', 'kf22'}
+ 12]
+[219 'L'
+ {'k252', 'k0f1', 'khh1', 'kk21', 'k0j1', 'kbm', 'kvb', 'kck', 'kw51', 'k4h1', 'krv', 'knl1', 'k0b1', 'kc6'}
+ 14]
+[220 'L' {'krk', 'kq01', 'kd51', 'kfq1', 'kvf'} 5]
+[560 'L' {'k762', 'kkd', 'k1w', 'kv22', 'k8b1', 'kw11', 'k9q1', 'kj71'} 8]
+[576 'L'
+ {'kz01', 'k1w', 'ksh1', 'kw52', 'k0m1', 'kp8', 'khg1', 'kcn1', 'kh8', 'kdv', 'k341', 'kqz1', 'k8b1'}
+ 13]
+[559 'L'
+ {'ksb1', 'kf01', 'kv61', 'kr5', 'kk22', 'kkf', 'k6h', 'khn', 'kd32', 'kkp1', 'krr', 'k002', 'k9q1'}
+ 13]
+[451 'L'
+ {'kvz1', 'kcw1', 'kpg1', 'k8l', 'k4d2', 'kxp', 'kgl', 'khc', 'k991', 'kf2', 'kpc1', 'kg62'}
+ 12]
+[557 'L'
+ {'kdb2', 'k4k1', 'km02', 'k2s1', 'k5m1', 'kmd1', 'khc1', 'kmz', 'kd41', 'k4w', 'kn7', 'kgr1', 'kz21', 'kcc'}
+ 14]
+[556 'L' {'k9k', 'k462', 'km32', 'kkb1', 'kv32', 'kzn'} 6]
+[555 'L'
+ {'k0p', 'kw81', 'kpq1', 'kk61', 'kjk1', 'kf42', 'kbw1', 'kb7', 'k0k', 'k7p1', 'kr42', 'kkl1', 'khr1'}
+ 13]
+[554 'L'
+ {'k5z1', 'kng1', 'k5k1', 'kb71', 'kk21', 'krx', 'k102', 'kg7', 'k55', 'k9q1'}
+ 10]
+[222 'L' {'kdc', 'kbk', 'krm', 'kf2', 'kvb', 'k8b1', 'k902', 'k032'} 8]
+[274 'L' {'kkw1', 'kcw1', 'ks51', 'kr7', 'kd82', 'kw52', 'kz61', 'kd22'} 8]
+[551 'L'
+ {'kvk', 'khp1', 'kzm1', 'kvc1', 'knl', 'knj1', 'k0j1', 'kqc', 'knr1', 'kfq1', 'k8h1', 'kqv1'}
+ 12]
+[550 'L'
+ {'k34', 'kc21', 'k3q', 'kn51', 'k2m', 'k3c1', 'kg52', 'kn61', 'k2m1', 'kfc2', 'k0h', 'k13', 'kwb2', 'kzn'}
+ 14]
+[549 'L'
+ {'kq', 'k992', 'kds', 'kkc', 'kkg', 'k242', 'k1c2', 'kd4', 'kxg', 'km42', 'km81'}
+ 11]
+[453 'L' {'kwd1', 'k511', 'k471', 'kqd', 'kz82', 'k6j1', 'ksd'} 7]
+[225 'L' {'k9k', 'kww', 'krk', 'ksw1', 'klm', 'kpb', 'k38', 'ksq1', 'krr'}
+ 9]
+[575 'L' {'kx71', 'k0l1', 'kp41', 'kjs1', 'km42', 'ksg'} 6]
+[212 'L' {'k9k', 'knm', 'kf31', 'k981', 'kk52', 'k2g1', 'k8m', 'k381'} 8]
+[272 'L'
+ {'khk1', 'k881', 'k4x1', 'k7p', 'kz91', 'kss1', 'k8k1', 'kkb2', 'k561', 'k221'}
+ 10]
+[593 'L' {'kdg1', 'k6q1', 'k7j1', 'k361', 'kqd1', 'kk4', 'k641', 'kv21'} 8]
+[606 'L'
+ {'ks5', 'k6z', 'khp1', 'km7', 'k622', 'kb62', 'k0s', 'knq1', 'kk6', 'kgj1', 'kb3', 'k8b2', 'k0g'}
+ 13]
+[605 'L'
+ {'kq81', 'klz1', 'kkw1', 'krk', 'kz91', 'kj7', 'k8j', 'k8l1', 'kzn'} 9]
+[604 'L'
+ {'kwn1', 'k8n', 'kb62', 'kz31', 'kf2', 'kkg1', 'k76', 'kk82', 'k7n1'} 9]
+[441 'L' {'k802', 'kjz', 'kh1', 'knf', 'kjk', 'k4d1'} 6]
+[602 'L' {'k6r', 'kf42', 'k7m', 'kgb2', 'kvf'} 5]
+[196 'L'
+ {'kxn', 'kvk', 'k1l1', 'kk11', 'k6z', 'kc61', 'kjf', 'kfz1', 'kk92', 'kf71', 'k3w', 'ksw', 'kj41', 'kv8'}
+ 14]
+[197 'L'
+ {'kzb', 'k3m', 'k5j1', 'kj3', 'kqk', 'kh81', 'kh1', 'khn', 'k72', 'kbm', 'k5f1', 'kcv1', 'kv32', 'k8l1'}
+ 14]
+[442 'L'
+ {'kf21', 'k881', 'kxk1', 'kqn', 'kxf1', 'k8w', 'k87', 'k4d1', 'kg71'} 9]
+[279 'L'
+ {'kr51', 'kk11', 'kg11', 'ksk', 'kzl', 'kzw', 'kcn1', 'kpd', 'k6w'} 9]
+[597 'L'
+ {'k64', 'k5s1', 'kpg1', 'km7', 'kb31', 'khp', 'k0k1', 'kv9', 'ksv1'} 9]
+[596 'L'
+ {'k6z', 'kf2', 'k672', 'k7d1', 'kqs', 'kh61', 'kl6', 'kz6', 'khb1'} 9]
+[278 'L'
+ {'kx61', 'khh1', 'ksf1', 'k0l', 'k3j1', 'k4h1', 'kvn1', 'k1', 'kmk1'} 9]
+[594 'L'
+ {'k1j1', 'k802', 'k93', 'kz9', 'k3j1', 'k0l1', 'kw52', 'kkn', 'k19', 'kj41', 'kwg1'}
+ 11]
+[592 'L' {'k7p1', 'k0d', 'kbz1', 'kh11', 'kf11', 'k9z1'} 6]
+[211 'L'
+ {'kqq', 'k6d2', 'kz22', 'k3p', 'knl', 'kp3', 'ksv1', 'k3w1', 'k5r1', 'km42', 'kkd1', 'kb5', 'kwl1'}
+ 13]
+[591 'L' {'kn12', 'klm', 'kl61', 'kxm', 'kjc', 'k5w1', 'kkz1', 'kzn'} 8]
+[201 'L'
+ {'kpc', 'k422', 'kd91', 'k0f1', 'k8x', 'ks81', 'kqc', 'k1w1', 'k9c', 'kh8', 'kk82', 'k0c2', 'kcp'}
+ 13]
+[202 'L'
+ {'kbd1', 'k412', 'k881', 'kvc1', 'kw', 'kz82', 'kkf1', 'kv32', 'kpc', 'k3l', 'kk8'}
+ 11]
+[588 'L'
+ {'kr51', 'k731', 'kvc1', 'kb91', 'kpb', 'k0k', 'kpn1', 'kk', 'kh8', 'kfx1', 'km81', 'k7w', 'k8l1', 'k452'}
+ 14]
+[203 'L'
+ {'kgp', 'k131', 'kv7', 'k7n1', 'kz61', 'kv9', 'k332', 'kwg1', 'k7w'} 9]
+[277 'L'
+ {'k851', 'k3f1', 'khq1', 'k3g1', 'kf42', 'k63', 'kh11', 'km2', 'k8h1', 'k7h', 'kmf', 'k452', 'kdg'}
+ 13]
+[205 'L' {'k462', 'kks1', 'kd62', 'kqx', 'k512', 'k8l1'} 6]
+[584 'L'
+ {'k532', 'k692', 'k161', 'kp41', 'k8k1', 'k1', 'k3p1', 'k5c1', 'k8h1', 'k0w1'}
+ 10]
+[446 'L' {'k0c', 'kbb2', 'kh5', 'kk', 'kk6', 'k33', 'kb5', 'khb1'} 8]
+[276 'L' {'krp', 'kh01', 'khc', 'k771', 'k55'} 5]
+[208 'L'
+ {'k6z1', 'k2d', 'kdz1', 'khp1', 'k431', 'kdx1', 'kgb2', 'krl1', 'kvh', 'krc', 'k7w'}
+ 11]
+[209 'L' {'kl72', 'k181', 'kl51', 'kvr', 'khg1', 'kk', 'kmf'} 7]
+[210 'L' {'kc6', 'k4d2', 'krr', 'k33', 'ks2'} 5]
+[546 'L'
+ {'kjm1', 'km51', 'kww', 'kz22', 'k6f', 'kmd1', 'kqr1', 'kqv', 'kdp', 'kk32', 'k332', 'kwg1', 'k051', 'kqz'}
+ 14]
+[228 'L'
+ {'kdg1', 'kfc1', 'kzk1', 'kh21', 'kfz1', 'knl', 'kzx1', 'k181', 'k001', 'kg71', 'k2x1', 'kkj'}
+ 12]
+[193 'L' {'kx71', 'kb72', 'kzq1', 'kfb1', 'kpc1', 'kz21', 'k8l1', 'kdg'} 8]
+[265 'L'
+ {'kvk', 'k34', 'k4c2', 'kgj1', 'kh52', 'kkn1', 'kgq', 'k351', 'kld1', 'kl6', 'k5w1'}
+ 11]
+[506 'L' {'kn6', 'kcb', 'kpr1', 'k861', 'kwg1'} 5]
+[505 'L' {'kkf', 'k6r', 'k761', 'k0l', 'k9d1'} 5]
+[504 'L'
+ {'kz02', 'kk42', 'k0n1', 'kwz', 'kwv', 'k282', 'k2x1', 'k002', 'kfj', 'k711', 'kfb', 'k2'}
+ 12]
+[247 'L'
+ {'k9s1', 'kf71', 'kmd', 'k192', 'km1', 'k66', 'k7d1', 'ksw', 'k711', 'k5w1', 'k2p', 'kw11', 'k331'}
+ 13]
+[502 'L'
+ {'k34', 'klr1', 'k021', 'k4n1', 'kn3', 'khc1', 'k38', 'k78', 'k3v1', 'kb5'}
+ 10]
+[267 'L'
+ {'klr1', 'kbj', 'kkk1', 'kq52', 'k7d1', 'k2c', 'kv8', 'ksg', 'kz02'} 9]
+[1 'L' {'kc51', 'kgr', 'k6c', 'kzb1', 'krn', 'k81', 'kwk1'} 7]
+[499 'L'
+ {'k5p1', 'kn12', 'k5d2', 'k4x1', 'kf8', 'k2m', 'kz32', 'k4n1', 'k001', 'k3w', 'kjs1'}
+ 11]
+[497 'L'
+ {'kk71', 'kdz1', 'k6z', 'kc21', 'knm', 'kgc', 'k9d1', 'k19', 'kzg', 'kqw1', 'k2r', 'kqz1', 'kc2', 'krq1'}
+ 14]
+[467 'L'
+ {'khk1', 'kcr', 'kvz1', 'k3r1', 'kdz1', 'kn71', 'kkc1', 'knl', 'kk9', 'k001', 'kkf1', 'kx41'}
+ 12]
+[251 'L'
+ {'kgn', 'k3m', 'kqv', 'k001', 'kf2', 'kd62', 'kb22', 'kh61', 'kgb2', 'kjc'}
+ 10]
+[468 'L'
+ {'kpg1', 'k1w', 'k9j1', 'k4n1', 'kw', 'kn3', 'k5q', 'kkx', 'kd41', 'kpc', 'kk62', 'kbb1', 'kc6'}
+ 13]
+[493 'L' {'kr82', 'kvc1', 'kzm1', 'ksw', 'kq91'} 5]
+[491 'L' {'kfd', 'kn32', 'kc81', 'k6k', 'k88', 'k9h', 'k2'} 7]
+[508 'L'
+ {'kqk1', 'kww', 'kzk1', 'k4d2', 'k542', 'ksv', 'k1z1', 'k852', 'kh61', 'k4w', 'khv1', 'km42', 'k33'}
+ 13]
+[254 'L'
+ {'kqq', 'kk11', 'km4', 'kbf1', 'kkf', 'k31', 'kl62', 'k3w', 'k63', 'kh11', 'k6z1', 'kqz1', 'k2'}
+ 13]
+[489 'L' {'kgx', 'kkc', 'kgd', 'klp', 'ks42', 'kfc2', 'k86'} 7]
+[488 'L'
+ {'kk71', 'k9g1', 'k141', 'kqk1', 'klb1', 'khp1', 'kd21', 'kf61', 'ksr1', 'km5', 'kdg', 'ksw', 'ks91', 'k032'}
+ 14]
+[255 'L'
+ {'k112', 'kwd1', 'k8n', 'k1v1', 'km1', 'kp41', 'k7d1', 'krv', 'k5w1'} 9]
+[486 'L' {'kqk1', 'kdb1', 'k3k', 'kx72', 'k782', 'k051', 'khr'} 7]
+[485 'L'
+ {'k2m', 'kkf', 'kwz1', 'kvb', 'k2f1', 'kcv1', 'kh61', 'kq82', 'k6k', 'kbs1', 'kg62', 'khb1'}
+ 12]
+[483 'L'
+ {'k141', 'k4c2', 'k3m', 'k7q1', 'kq01', 'kpn1', 'k4q1', 'kc2', 'km11'} 9]
+[258 'L' {'k231', 'k3p', 'kv91', 'k33', 'kmh', 'k9h'} 6]
+[480 'L'
+ {'kc3', 'krk', 'kxx', 'k791', 'kqc', 'kvb', 'kd51', 'kkx', 'k7l1', 'k76', 'kpr1', 'kf2', 'k871'}
+ 13]
+[479 'L'
+ {'kv61', 'kp7', 'kcl', 'k6r1', 'k3j1', 'kfc2', 'k512', 'k5', 'kkb2', 'krr', 'kx91', 'k3v1'}
+ 12]
+[472 'L'
+ {'kr32', 'ksp', 'k9x1', 'k2m', 'knp1', 'k361', 'kv91', 'kk7', 'k0j1', 'k232', 'kmk1', 'kj41', 'kbc1', 'k2g1'}
+ 14]
+[477 'L' {'kr5', 'kjf1', 'kv9', 'krr', 'khb1'} 5]
+[260 'L'
+ {'kgn', 'kzn1', 'k8l', 'knf', 'k0j1', 'kp62', 'k33', 'kqx', 'kxg', 'kld1', 'kj2', 'kjb1', 'k8', 'k86'}
+ 14]
+[507 'L'
+ {'kph', 'k4x1', 'kz22', 'kbn1', 'k2d1', 'kgx', 'krk', 'kcn1', 'kd32', 'kzg', 'kk4'}
+ 11]
+[509 'L'
+ {'kzx', 'kc21', 'kdb2', 'km02', 'k471', 'khn', 'kd02', 'krj', 'k8k1', 'k1', 'kh11', 'kcc'}
+ 12]
+[229 'L'
+ {'k9k', 'kc7', 'k3m', 'kzm1', 'kfj', 'kdv', 'kz72', 'k3k', 'kqz1'} 9]
+[457 'L'
+ {'k131', 'km52', 'kqv', 'kjk', 'k1r', 'kkk1', 'kv32', 'kpn1', 'kj82', 'kk72', 'k821', 'kz02'}
+ 12]
+[541 'L'
+ {'krf', 'kg3', 'kjl', 'knv1', 'kms', 'k6h', 'knl', 'kk61', 'k8b', 'k1r', 'k672', 'k6j'}
+ 12]
+[540 'L' {'kbf1', 'kq01', 'k7p1', 'kln', 'kxg', 'kwc2', 'k3s1'} 7]
+[539 'L'
+ {'kc51', 'k4k1', 'k4d2', 'kb7', 'kb8', 'k91', 'kpr1', 'km91', 'kp5', 'kbx1', 'k33', 'k291'}
+ 12]
+[538 'L' {'kk11', 'kzk1', 'kfb1', 'kpw1', 'kv8', 'kf81'} 6]
+[230 'L' {'kcl', 'kc21', 'k6z', 'k7d', 'kk6', 'kh7'} 6]
+[536 'L' {'kzk1', 'ksr1', 'k9d1', 'kpc1', 'kbv', 'k4j', 'k291', 'kqz1'} 8]
+[456 'L'
+ {'kn71', 'kk31', 'km9', 'kxd1', 'k5r1', 'k4q1', 'k8v1', 'k6w', 'k5h1', 'kg7', 'kqz'}
+ 11]
+[232 'L'
+ {'k6b2', 'k1k1', 'kj8', 'k9s1', 'kjk', 'kdv', 'kd32', 'k6q1', 'klr'} 9]
+[533 'L'
+ {'khk1', 'kx01', 'k8d', 'k622', 'kbm', 'k2v1', 'k7n1', 'kdp', 'kzg', 'krd1'}
+ 10]
+[532 'L'
+ {'kjn', 'kw81', 'kz22', 'k8l', 'k001', 'kfz', 'k0x', 'k3w', 'k651', 'knz1', 'k3k'}
+ 11]
+[531 'L' {'kf01', 'kcl', 'k4g1', 'kjn1', 'kd32', 'k6n1'} 6]
+[530 'L'
+ {'k0h1', 'kn51', 'k1v1', 'kzm1', 'k6s1', 'k692', 'k66', 'kz61', 'klf1', 'kk1', 'krn'}
+ 11]
+[233 'L'
+ {'kgp1', 'k6d2', 'kc21', 'kg2', 'k1v1', 'kb21', 'kdp', 'k671', 'kbq1'} 9]
+[235 'L' {'kjl', 'kgc', 'klb1', 'kkc1', 'ks7', 'k38'} 6]
+[268 'L' {'kx01', 'k0l1', 'k342', 'k81', 'kzn'} 5]
+[526 'L'
+ {'k9k', 'k64', 'k621', 'k8n', 'k661', 'kb9', 'kkb2', 'kf41', 'kg7'} 9]
+[460 'L'
+ {'k34', 'kkw', 'k5m', 'kbm', 'kq52', 'kcj', 'km81', 'kv81', 'kg91'} 9]
+[239 'L' {'kgp1', 'k881', 'k2m', 'k531', 'kqs', 'kv1', 'kj82'} 7]
+[240 'L' {'k1q', 'k511', 'km41', 'kcq', 'k0l1', 'knw', 'k5g', 'kg7'} 8]
+[520 'L' {'k522', 'k0h1', 'knj', 'kld1', 'k3g', 'k5k', 'k8l1'} 7]
+[519 'L' {'k6b2', 'kjl', 'kgc', 'k5c', 'k0g1', 'kcw', 'kmf'} 7]
+[241 'L'
+ {'k1j1', 'km02', 'kbn1', 'kb02', 'kfz1', 'kj31', 'k9c1', 'kq92', 'kv32', 'kp31', 'k19', 'k6z1', 'krr', 'kfd1'}
+ 14]
+[516 'L'
+ {'kq81', 'kw82', 'k4k1', 'k342', 'k06', 'kd62', 'kld1', 'kl6', 'kqz1', 'kzn'}
+ 10]
+[515 'L' {'kc61', 'kc21', 'kr9', 'kzw', 'kx51', 'k3z1'} 6]
+[514 'L' {'krm', 'kfk1', 'k4d1', 'kf2', 'k11', 'k8b1', 'kv21', 'k86'} 8]
+[462 'L'
+ {'kvk', 'k762', 'kl1', 'kx71', 'k1n', 'k532', 'kdm1', 'kd92', 'kx41', 'k0b1', 'ksq'}
+ 11]
+[463 'L'
+ {'kqh', 'kc61', 'kq3', 'ksr1', 'kjk', 'kqv', 'kk82', 'kkx', 'kpd', 'k3x1', 'kc6'}
+ 11]
+[245 'L'
+ {'kwq', 'k15', 'k1v1', 'k0f1', 'k4d2', 'kfh1', 'krr', 'k68', 'kw2', 'kw5'}
+ 10]
+[194 'L' {'kl72', 'kkf1', 'kx41', 'kz02', 'k07'} 5]
+[192 'L' {'khk1', 'k6c', 'k02', 'k882', 'k98'} 5]
+[743 'L'
+ {'kr51', 'kq5', 'k011', 'k7d', 'k3k', 'kjk1', 'k001', 'k8h', 'k291', 'k221'}
+ 10]
+[416 'L'
+ {'k6z', 'k511', 'kmp', 'kf42', 'k171', 'k591', 'k861', 'kc42', 'k7d1', 'k2x1', 'kz61', 'kjc1', 'kx11', 'ksx'}
+ 14]
+[708 'L'
+ {'kj3', 'ks72', 'kl71', 'kb7', 'k3c1', 'kzx1', 'kz42', 'k11', 'kj82', 'kfk'}
+ 10]
+[707 'L'
+ {'kvk', 'k281', 'kdb2', 'kr61', 'kjb1', 'kv1', 'kkm', 'k78', 'kcc', 'ksq'}
+ 10]
+[706 'L'
+ {'kr1', 'k7f', 'kn51', 'kpx1', 'k8w1', 'k622', 'k181', 'k312', 'krx', 'kr02', 'kk82', 'k452', 'kwk1'}
+ 13]
+[142 'L'
+ {'kvc1', 'knk1', 'kc11', 'krk1', 'kk82', 'kk4', 'k0w1', 'khv', 'kzh'} 9]
+[704 'L'
+ {'kr51', 'k9k1', 'kjr1', 'kq21', 'kx3', 'k482', 'kzf', 'kzl', 'km9', 'kff1', 'kll', 'k711'}
+ 12]
+[412 'L' {'k572', 'kl3', 'kkg', 'k161', 'k8k1', 'k271', 'kgs'} 7]
+[702 'L' {'khk1', 'kbj', 'k511', 'kdp1', 'kqc', 'k392', 'kd'} 7]
+[294 'L'
+ {'kk71', 'kj12', 'k6w', 'kf91', 'k4k1', 'kwr1', 'ksc2', 'kxf1', 'knz', 'kjs1', 'kpf', 'k6c2', 'k55', 'kdh'}
+ 14]
+[145 'L'
+ {'kr51', 'k5p1', 'k5w1', 'kg11', 'k3c1', 'kxz', 'k991', 'kk5', 'kxm1', 'kf12', 'kjb1', 'kw11', 'k86'}
+ 13]
+[293 'L' {'ksp', 'kj91', 'kw81', 'kfc2', 'kf51', 'ksz'} 6]
+[292 'L'
+ {'kpk', 'k911', 'kp1', 'kk21', 'kkn1', 'k882', 'k202', 'kcv1', 'kkp', 'k81', 'k3x1'}
+ 11]
+[148 'L'
+ {'kn12', 'kbj', 'kl72', 'k9n', 'k0f1', 'k1v1', 'kq3', 'krx', 'k882', 'kd51', 'kjb2', 'kkj1'}
+ 12]
+[149 'L'
+ {'kbd1', 'kz22', 'k0z', 'kfz1', 'kqz', 'kmr1', 'kn4', 'k651', 'kdv', 'k6l1', 'kv9', 'kvr', 'kjw'}
+ 13]
+[694 'L' {'kb11', 'kzv', 'k002', 'k9h', 'kg7'} 5]
+[140 'L' {'kr5', 'k1s', 'km52', 'k2r1', 'k991', 'kkk1', 'k9d1', 'kfw'} 8]
+[693 'L' {'kjh1', 'k3c', 'ksm1', 'kq32', 'kcv1', 'kcn', 'kk82', 'k0v'} 8]
+[692 'L' {'kbj', 'k2q1', 'k6k1', 'kkw1', 'k9f1', 'kq52', 'k232'} 7]
+[691 'L' {'kqk1', 'kqs', 'k1r1', 'k6c2', 'kw11'} 5]
+[690 'L' {'kg61', 'k3r1', 'k3d2', 'kd51', 'kp4', 'khr', 'k032'} 7]
+[688 'L'
+ {'k9k', 'kc9', 'k3q1', 'kk22', 'k131', 'k3p', 'kk9', 'kc8', 'k3x1', 'k33', 'kvs1'}
+ 11]
+[687 'L'
+ {'kqh', 'kbj', 'khj1', 'k4g1', 'kkq', 'kr82', 'kh91', 'kvb1', 'k3h1'} 9]
+[154 'L'
+ {'khk1', 'k34', 'kjr1', 'k912', 'kj91', 'kxz', 'kn22', 'k3h', 'kpn1', 'k4q1', 'kzz', 'kcn', 'kqf', 'kkm'}
+ 14]
+[420 'L' {'kcw1', 'kls', 'kxk1', 'k0l1', 'khg1'} 5]
+[682 'L' {'kz9', 'kd82', 'krs1', 'krr1', 'kn81', 'k602', 'kqz1', 'k3k'} 8]
+[421 'L'
+ {'kbw1', 'k692', 'k672', 'kdp', 'ksw', 'kh11', 'kfj', 'kh42', 'kb92'} 9]
+[680 'L' {'kl5', 'k4d2', 'ks92', 'kf42', 'kqx', 'k8k1', 'kk'} 7]
+[679 'L'
+ {'k802', 'kl9', 'k242', 'kbz1', 'kkl', 'kpj1', 'k351', 'k5n', 'kk82', 'k8r', 'kj82', 'knx'}
+ 12]
+[678 'L' {'kb02', 'k9c1', 'k0j1', 'kx51', 'kcv1', 'kk6'} 6]
+[141 'L' {'k3q', 'kdp1', 'kxf1', 'k9v', 'kdp'} 5]
+[139 'L'
+ {'khk1', 'k6z', 'kq41', 'kzk1', 'kzf1', 'kl', 'k991', 'kk9', 'kfc2', 'k4w', 'kv21', 'kzn'}
+ 12]
+[423 'L'
+ {'k851', 'kdb2', 'khp1', 'kl9', 'k7j1', 'kh1', 'kb7', 'k991', 'k4r', 'k882', 'k33', 'kmf'}
+ 12]
+[729 'L'
+ {'k031', 'kb7', 'k2c2', 'k032', 'k242', 'kpb2', 'k0g1', 'knq1', 'kdp', 'kpb', 'kh7', 'k8z1'}
+ 12]
+[742 'L' {'k6d2', 'k462', 'k4d2', 'klx', 'k622', 'k8h1', 'k7n1'} 7]
+[741 'L' {'k7d', 'khh1', 'kh1', 'k38', 'k0b1', 'k8b1'} 6]
+[404 'L'
+ {'kc51', 'kgc', 'kxk', 'kll1', 'kn51', 'k8w', 'kc11', 'kdp', 'kh71', 'k1', 'knc1', 'kvs1', 'kqz'}
+ 13]
+[739 'L'
+ {'k4b1', 'kkw1', 'kpg1', 'k1v1', 'kfp', 'kzj1', 'ksj1', 'klw', 'k7v1', 'kwc2', 'kc2', 'ksg', 'k452'}
+ 13]
+[738 'L' {'km7', 'kn5', 'krk1', 'kv1', 'k6m1', 'kb5'} 6]
+[261 'L'
+ {'kj91', 'k361', 'kk7', 'k452', 'kjc', 'k6d1', 'kf12', 'kb5', 'kjw1'} 9]
+[736 'L'
+ {'kqq', 'k141', 'k3q1', 'knl', 'k2k', 'kdn1', 'kk21', 'kj', 'klk1', 'kk1', 'kdg'}
+ 11]
+[406 'L'
+ {'khw', 'kdd1', 'k462', 'kv01', 'k041', 'k4d2', 'kpc1', 'kk6', 'k33'} 9]
+[734 'L' {'kvl1', 'kvj1', 'k1', 'kf41', 'kr42'} 5]
+[733 'L' {'k5q1', 'k141', 'kc21', 'k701', 'kn51', 'km32', 'kjs1'} 7]
+[732 'L'
+ {'kxr1', 'kvq', 'kkq', 'k361', 'k4p1', 'k5v1', 'k5f1', 'km71', 'kwp1', 'kn81', 'k92', 'k002', 'k7n1', 'k2'}
+ 14]
+[298 'L' {'kzb1', 'khc1', 'k0k1', 'kk', 'kkm', 'k901', 'khb1'} 7]
+[730 'L' {'k141', 'kh1', 'krm', 'kdn1', 'kpr1', 'k561'} 6]
+[728 'L'
+ {'khk1', 'kgp1', 'kq22', 'k412', 'k2', 'klh1', 'krm', 'k622', 'kn4', 'k5f1', 'kh11', 'k3l', 'k2x1', 'kdg'}
+ 14]
+[712 'L'
+ {'kl31', 'k84', 'k1j1', 'k511', 'knj', 'k622', 'kh92', 'k74', 'km42', 'k19', 'kx41'}
+ 11]
+[727 'L' {'kvw1', 'kmp', 'kz9', 'kp62', 'kn4', 'kvp', 'kpd', 'kk82'} 8]
+[132 'L' {'kfm1', 'kw02', 'k771', 'kkn', 'kwg1', 'k8q'} 6]
+[725 'L'
+ {'kr32', 'k921', 'kr5', 'kk3', 'k361', 'k7j', 'kh1', 'kg21', 'k0g1', 'kb', 'k861', 'kh8', 'kfj', 'kh6'}
+ 14]
+[724 'L' {'kn12', 'kr5', 'kgv1', 'k0z1', 'kpc1', 'ksq1', 'kpc', 'kk82'} 8]
+[723 'L'
+ {'kc51', 'kn12', 'kgj', 'kgk1', 'kkf', 'k6r', 'k622', 'k4n1', 'kz82', 'knv', 'k001', 'kpb2', 'k0x', 'k1'}
+ 14]
+[722 'L' {'k031', 'kd62', 'kd81', 'k002', 'klz1'} 5]
+[296 'L'
+ {'kg42', 'kw41', 'kfr1', 'k7z', 'kn71', 'k8c1', 'khr', 'k3j1', 'kgb2', 'kkb2', 'klz1', 'kkr1'}
+ 12]
+[719 'L'
+ {'kls1', 'kk11', 'k2m', 'kq21', 'kgc2', 'kgb2', 'k3h', 'kpc', 'k17'} 9]
+[718 'L'
+ {'kkz', 'kqq', 'kk11', 'kgp1', 'kr5', 'k0j1', 'k4d1', 'khx', 'kbc', 'kq2'}
+ 10]
+[135 'L' {'kcq1', 'kv51', 'kvh', 'krq1', 'kgs1'} 5]
+[136 'L' {'kl81', 'k0c', 'kdz1', 'k1s', 'kp6', 'kh8', 'kkr1'} 7]
+[411 'L'
+ {'k5s', 'k572', 'k802', 'kl72', 'kwj1', 'k882', 'kpn1', 'k162', 'kn81', 'kjh', 'k88', 'km21'}
+ 12]
+[713 'L' {'kcj1', 'k9p', 'k8n', 'kg12', 'k76', 'kp21', 'k8h1'} 7]
+[677 'L'
+ {'kpm1', 'kc61', 'knl', 'kfz1', 'kb81', 'k0l1', 'kkb1', 'k8j', 'k81', 'kqf', 'kp42', 'k9q1'}
+ 12]
+[159 'L'
+ {'kgk1', 'kzq1', 'k561', 'kxf1', 'k74', 'k3b1', 'kk6', 'k711', 'kc2', 'k82'}
+ 10]
+[610 'L'
+ {'kdd1', 'knj', 'kxx', 'kxf1', 'kb91', 'kq01', 'k771', 'klw1', 'khc2', 'kgr1'}
+ 10]
+[626 'L' {'kjr', 'k011', 'k512', 'k6k', 'kjq1'} 5]
+[639 'L' {'kl81', 'k3q1', 'kpx1', 'kgg', 'kj41'} 5]
+[638 'L'
+ {'kpk', 'kr1', 'kp61', 'kq81', 'kr5', 'k5j', 'kds', 'knf', 'kb7', 'kzb1', 'kr02', 'k892', 'klx1', 'kf22'}
+ 14]
+[174 'L' {'kw6', 'k0f1', 'km41', 'kzl', 'km9', 'kdm1', 'k381'} 7]
+[433 'L'
+ {'k141', 'k0p', 'k621', 'k921', 'kc41', 'kz91', 'k0n1', 'kq31', 'k882', 'kdp', 'k512', 'kj7'}
+ 12]
+[176 'L' {'k6r', 'kcn1', 'kx51', 'k4x', 'kwg1', 'k5w1'} 6]
+[177 'L' {'k911', 'k2b1', 'knj', 'kd4', 'kgn1', 'kkd1', 'kw11', 'khb1'} 8]
+[178 'L'
+ {'khk1', 'kdd1', 'kkc1', 'kvb2', 'kzw', 'kc11', 'kd41', 'kpd', 'k4l1'} 9]
+[179 'L'
+ {'kr51', 'k9k', 'kq81', 'kvv1', 'kl72', 'kpq', 'kms', 'klm', 'km7', 'kjs1', 'kx41', 'k002', 'kzp1', 'kjx'}
+ 14]
+[282 'L' {'kbj', 'k1h', 'knh', 'kjw1', 'kqz'} 5]
+[181 'L'
+ {'knn1', 'kz22', 'kbf1', 'kz02', 'krm', 'kdn1', 'kmn', 'k31', 'knw', 'kdp', 'kkb1', 'kkr1', 'k261'}
+ 13]
+[629 'L'
+ {'kw81', 'k3m', 'k1j1', 'k432', 'kk21', 'kkc', 'k8s', 'kpb', 'k512', 'k6k', 'k391', 'k152'}
+ 12]
+[435 'L'
+ {'k412', 'kgb1', 'k0q1', 'kjk', 'k532', 'k0l1', 'kp91', 'kxd1', 'k81', 'k4s1'}
+ 10]
+[627 'L'
+ {'kn12', 'k8n', 'k6r', 'k0s', 'kk02', 'kpb2', 'kv32', 'k32', 'kz61', 'k332', 'kvs1'}
+ 11]
+[436 'L'
+ {'k2d', 'k6z', 'kjz', 'k471', 'kv22', 'kf71', 'kk02', 'k161', 'kj41', 'k8h1'}
+ 10]
+[641 'L'
+ {'k5k', 'kww', 'kpg1', 'kmc', 'kfc2', 'kp41', 'k35', 'kdv', 'kkq1', 'k561', 'k9q1'}
+ 11]
+[184 'L' {'ks5', 'krn1', 'knl', 'kbs', 'kp62', 'kzw', 'k5f1'} 7]
+[623 'L'
+ {'k412', 'k4k1', 'k021', 'k5b1', 'kc', 'kqc1', 'kxf1', 'k38', 'khg1', 'kj02', 'kw11', 'kkl1', 'k452'}
+ 13]
+[281 'L'
+ {'kdg1', 'k5p1', 'kgp1', 'k9n', 'kzr', 'kk21', 'k532', 'k5v1', 'k181', 'kq7', 'k651', 'kq91'}
+ 12]
+[621 'L' {'k0h1', 'kss', 'ks6', 'kk22', 'kdn1', 'kcv1'} 6]
+[186 'L' {'kkd', 'kjp', 'ksk', 'kx', 'k6k', 'kk81', 'k55'} 7]
+[187 'L'
+ {'k481', 'kwn1', 'k7s1', 'kgb', 'k3q', 'kbj', 'krh1', 'kl31', 'kq92', 'kzw', 'krd', 'k13', 'k6k'}
+ 13]
+[189 'L'
+ {'kdg1', 'k6z', 'kkf', 'k6c', 'kd82', 'kmz', 'kpd', 'kpc1', 'kpc', 'k1'}
+ 10]
+[616 'L'
+ {'k7d', 'kw12', 'k6r1', 'ks92', 'k4n1', 'k5p', 'kwk', 'k9c', 'kk6', 'k952', 'kkb2', 'kr42'}
+ 12]
+[439 'L' {'kzb2', 'kl72', 'kzr', 'k692', 'kqc', 'kq52', 'kg71', 'kb8'} 8]
+[614 'L'
+ {'kdd1', 'k621', 'ks6', 'kqc2', 'k6r', 'k2m1', 'kb51', 'kbz1', 'kwg1', 'krq1', 'kkj1'}
+ 11]
+[613 'L'
+ {'k9k', 'kq21', 'k1f', 'kz9', 'k7r1', 'kn4', 'kk', 'k1g', 'kzp', 'kg8', 'k82'}
+ 11]
+[440 'L' {'k8r1', 'kl3', 'kgc2', 'kns', 'kc11', 'kk6', 'kpc', 'k562'} 8]
+[611 'L' {'kbj', 'k7d', 'klk', 'k7p1', 'k38', 'kpn', 'k9q1'} 7]
+[640 'L' {'kk11', 'k6d2', 'k8l', 'kjm', 'k3', 'kwc1', 'kfv', 'kv52'} 8]
+[642 'L' {'khk1', 'ks92', 'k66', 'kkk', 'kf81'} 5]
+[287 'L'
+ {'kvm1', 'kgj', 'k4x', 'kwm1', 'k0s', 'kmn', 'kb62', 'kkn', 'kws', 'km42', 'kz21', 'kj82', 'ksv1'}
+ 13]
+[658 'L' {'kk92', 'kn3', 'kcn1', 'k421', 'kh61', 'kw11', 'k81'} 7]
+[672 'L' {'k141', 'k3c1', 'kbs', 'k322', 'kh61', 'krr', 'kc32'} 7]
+[671 'L'
+ {'k3q', 'k8f', 'kvl1', 'k7k1', 'kn22', 'kmj1', 'k7d1', 'khv', 'k3v', 'k711'}
+ 10]
+[425 'L' {'k34', 'kl3', 'kfz1', 'kz91', 'kp8', 'kd', 'kz02'} 7]
+[669 'L'
+ {'k752', 'k7s', 'kgc', 'kbj', 'kqv', 'k4r', 'k812', 'kss1', 'k88'} 9]
+[334 'L' {'khn', 'k001', 'kpr1', 'kzg', 'kbv', 'kwg1'} 6]
+[667 'L' {'kfr1', 'k292', 'k7x', 'k651', 'kjs1', 'kqz1', 'kw11'} 7]
+[286 'L'
+ {'kkw1', 'klb1', 'kkr', 'krk', 'kl72', 'k8w', 'ksj1', 'km9', 'kd62', 'kcv1', 'kh11', 'kk6', 'k2x1', 'kx1'}
+ 14]
+[164 'L' {'kc61', 'k21', 'kwz', 'k4x', 'kjq1', 'kj22'} 6]
+[663 'L'
+ {'k1s', 'k1v1', 'k001', 'kf2', 'k4m1', 'k76', 'kwr', 'kpd', 'kvs1', 'kv'}
+ 10]
+[166 'L'
+ {'kb12', 'k8c1', 'k0j1', 'kk31', 'kd72', 'k8j', 'k39', 'k2x1', 'k002', 'k052', 'k3k', 'kkr1'}
+ 12]
+[167 'L'
+ {'ksb1', 'kdk', 'k792', 'kk2', 'kmr1', 'k6d', 'kk', 'kld1', 'k431', 'kmh', 'kcc'}
+ 11]
+[284 'L'
+ {'kbv', 'k5s1', 'ks6', 'ksj1', 'k3w', 'k3g', 'k88', 'ks31', 'kvz'} 9]
+[429 'L'
+ {'k011', 'kbq', 'kz4', 'kg52', 'kvb1', 'kkg1', 'k8k', 'k1p', 'k13', 'kwg1', 'k0b1', 'k8f'}
+ 12]
+[170 'L' {'kx82', 'kl71', 'kqq1', 'k692', 'k342', 'k3k'} 6]
+[283 'L' {'kfr1', 'k361', 'kqv', 'k5v1', 'k552', 'k4w', 'kk6', 'kbv'} 8]
+[656 'L' {'kr51', 'kd6', 'kcv1', 'k39', 'kk32', 'k33', 'kq61', 'kzw1'} 8]
+[655 'L' {'kq12', 'kfz1', 'kjj1', 'k7d1', 'k0w1', 'k122'} 6]
+[654 'L'
+ {'k3m', 'krk', 'kw62', 'kdb2', 'kkb', 'k1d', 'kp52', 'k242', 'kbm', 'km81', 'k5w1', 'kdl', 'kkj1'}
+ 13]
+[430 'L'
+ {'k441', 'kkd', 'kmx', 'kz22', 'k0b1', 'k002', 'kk4', 'kwh', 'k65'} 9]
+[652 'L' {'kk11', 'kn51', 'kn3', 'k771', 'kcz', 'k311', 'kvr'} 7]
+[431 'L' {'k622', 'kp02', 'k8k', 'kkb1', 'km42', 'k4p1'} 6]
+[650 'L'
+ {'k0c', 'k64', 'kk21', 'kf42', 'kr8', 'k7x', 'k5f1', 'kfc2', 'k521', 'kkp'}
+ 10]
+[649 'L' {'kh1', 'kq12', 'kd32', 'k1', 'k86'} 5]
+[648 'L'
+ {'k481', 'k911', 'k011', 'kdp1', 'k6r1', 'k8h', 'kq52', 'k1', 'kh11', 'kkp', 'kd', 'kbh'}
+ 12]
+[647 'L' {'kk11', 'k3q1', 'k881', 'k9q', 'kk6', 'kk72'} 6]
+[646 'L' {'kxf1', 'kqx', 'k351', 'km81', 'k551'} 5]
+[645 'L'
+ {'k57', 'k64', 'kdz1', 'kk11', 'kf72', 'kwp', 'kkb', 'k6h', 'kkk1', 'kvr', 'kdv', 'kr02', 'km81', 'k7w'}
+ 14]
+[644 'L'
+ {'kf01', 'k762', 'ksc1', 'kx7', 'khp1', 'k6f', 'k221', 'k9z1', 'kbv', 'kz21', 'kvs1', 'kcc'}
+ 12]
+[500 'L'
+ {'k0h1', 'kk11', 'kmb', 'kk21', 'kxf1', 'ksj1', 'kvb1', 'kc8', 'k232', 'kk6', 'kr2'}
+ 11]
