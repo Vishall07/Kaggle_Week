@@ -84,16 +84,22 @@ def greedy_reorder(df):
     
     return df.loc[order].reset_index(drop=True)
 
+def calculate_frequency(items, n , output_chunk = 1):
+    frequency = {}
+    for item in items:
+        frequency[item] = frequency.get(item, 0) + 1
+    sorted_items = sorted(frequency.items(), key=lambda x: (abs(x[1] - n), -x[1]))
+    closest_keys = [key for key, _ in sorted_items[:output_chunk]]
+    return closest_keys
+
 def get_candidate_indices(current_index, memo, df):
     set_data = df.iloc[current_index]["Tags"]
     res = []
     for tag in set_data:
         rows = memo[tag]
         res += rows
-
-    with open("output.txt", "w") as f:
-        for item in res:
-            f.write(f"{item}\n")
+    n = len(set_data) // 2
+    res = calculate_frequency(res, n)
     return res
 
 
@@ -106,8 +112,9 @@ def reorder_df_with_candidates(df, memo):
     result.append(df.loc[current_index])
 
     while unvisited:
+        print(len(result))
         curr_tags = df.loc[current_index, 'Tags']
-        candidates = set(get_candidate_indices(current_index, memo, df)) & unvisited
+        candidates = set(get_candidate_indices(current_index, memo, df))
         if not candidates:
             candidates = unvisited  
 
@@ -173,7 +180,7 @@ def main(file_number = 0):
 
 if __name__=="__main__":
     main(3)
-    for i in range(5):
-        main(i)
+    # for i in range(5):
+    #     main(i)
 
 
