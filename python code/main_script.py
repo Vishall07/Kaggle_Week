@@ -133,7 +133,7 @@ def main(file_number = 0):
 
 
 if __name__=="__main__":
-    main(2)
+    main(0)
 
 
 #1478
