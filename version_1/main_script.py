@@ -59,32 +59,8 @@ def create_output_file(combined_df, path):
         for line in output.values:
             f.write(str(line)+'\n')
 
-# Greedy algorithm
-def greedy_reorder(df):
-    used = set()
-    order = []
-    
-    # Start with the row with max total tag overlap with others
-    start = max(df.index, key=lambda i: sum(len(df.loc[i, 'Tags'] & df.loc[j, 'Tags']) for j in df.index if i != j))
-    current = start
-    used.add(current)
-    order.append(current)
 
-    while len(used) < len(df):
-        next_index = max(
-            (i for i in df.index if i not in used),
-            key=lambda i: len(df.loc[current, 'Tags'] & df.loc[i, 'Tags']),
-            default=None
-        )
-        if next_index is None:
-            break
-        used.add(next_index)
-        order.append(next_index)
-        current = next_index
-    
-    return df.loc[order].reset_index(drop=True)
-
-def calculate_frequency(items, n , output_chunk = 1):
+def calculate_frequency(items, n , output_chunk = 2):
     frequency = {}
     for item in items:
         frequency[item] = frequency.get(item, 0) + 1
@@ -114,9 +90,9 @@ def reorder_df_with_candidates(df, memo):
     while unvisited:
         print(len(result))
         curr_tags = df.loc[current_index, 'Tags']
-        candidates = set(get_candidate_indices(current_index, memo, df))
+        candidates = set(get_candidate_indices(current_index, memo, df)) & unvisited
         if not candidates:
-            candidates = unvisited  
+            candidates = unvisited
 
         min_cost = float('inf')
         next_index = None
@@ -163,7 +139,7 @@ def main(file_number = 0):
     combined_df = merge_potraits_in_one_frame(df)
 
     memo = {}
-    for index, row in df.iterrows():
+    for index, row in combined_df.iterrows():
         tag_str = row['Tags'] 
         for tag in tag_str:
             if(tag in memo):
